@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Monster Galaxy Exile_v1.0.3_apkpure.com.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '4'
+  targetSdkVersion: '9'
+sharedLibrary: false
+unknownFiles:
+  com/badlogic/gdx/utils/arial-15.fnt: '8'
+  com/badlogic/gdx/utils/arial-15.png: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.0
+versionInfo:
+  versionCode: '4'
+  versionName: 1.0.3

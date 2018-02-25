@@ -1,0 +1,77 @@
+.class Lcom/ansca/corona/Controller$6;
+.super Ljava/lang/Object;
+.source "Controller.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/ansca/corona/Controller;->cancelNativeAlert(I)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic this$0:Lcom/ansca/corona/Controller;
+
+.field final synthetic val$buttonIndex:I
+
+.field final synthetic val$theDialog:Landroid/app/AlertDialog;
+
+
+# direct methods
+.method constructor <init>(Lcom/ansca/corona/Controller;Landroid/app/AlertDialog;I)V
+    .locals 0
+
+    .prologue
+    .line 749
+    iput-object p1, p0, Lcom/ansca/corona/Controller$6;->this$0:Lcom/ansca/corona/Controller;
+
+    iput-object p2, p0, Lcom/ansca/corona/Controller$6;->val$theDialog:Landroid/app/AlertDialog;
+
+    iput p3, p0, Lcom/ansca/corona/Controller$6;->val$buttonIndex:I
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 3
+
+    .prologue
+    .line 752
+    iget-object v1, p0, Lcom/ansca/corona/Controller$6;->val$theDialog:Landroid/app/AlertDialog;
+
+    invoke-virtual {v1}, Landroid/app/AlertDialog;->cancel()V
+
+    .line 753
+    iget-object v1, p0, Lcom/ansca/corona/Controller$6;->this$0:Lcom/ansca/corona/Controller;
+
+    invoke-static {v1}, Lcom/ansca/corona/Controller;->access$400(Lcom/ansca/corona/Controller;)Lcom/ansca/corona/events/EventManager;
+
+    move-result-object v0
+
+    .line 754
+    .local v0, "eventManager":Lcom/ansca/corona/events/EventManager;
+    if-eqz v0, :cond_0
+
+    .line 755
+    iget v1, p0, Lcom/ansca/corona/Controller$6;->val$buttonIndex:I
+
+    const/4 v2, 0x1
+
+    invoke-virtual {v0, v1, v2}, Lcom/ansca/corona/events/EventManager;->nativeAlertResult(IZ)V
+
+    .line 757
+    :cond_0
+    return-void
+.end method

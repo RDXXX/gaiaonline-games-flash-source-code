@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="close" id="0x7f020000" />
+    <public type="drawable" name="facebook_icon" id="0x7f020002" />
+    <public type="drawable" name="corona_statusbar_icon_default" id="0x7f020001" />
+    <public type="drawable" name="ic_maps_indicator_current_position" id="0x7f020003" />
+    <public type="drawable" name="ic_maps_indicator_current_position_anim1" id="0x7f020004" />
+    <public type="drawable" name="ic_maps_indicator_current_position_anim2" id="0x7f020005" />
+    <public type="drawable" name="ic_maps_indicator_current_position_anim3" id="0x7f020006" />
+    <public type="drawable" name="ic_menu_camera" id="0x7f020007" />
+    <public type="drawable" name="ic_menu_refresh" id="0x7f020008" />
+    <public type="drawable" name="icon" id="0x7f020009" />
+    <public type="raw" name="corona_3rd_party_licenses" id="0x7f030000" />
+    <public type="raw" name="corona_asset_widget_theme_android" id="0x7f030001" />
+    <public type="raw" name="corona_asset_widget_theme_android_2x" id="0x7f030002" />
+    <public type="raw" name="corona_asset_widget_theme_ios" id="0x7f030003" />
+    <public type="raw" name="corona_asset_widget_theme_ios_2x" id="0x7f030004" />
+    <public type="raw" name="corona_asset_widget_theme_onoff_mask" id="0x7f030005" />
+    <public type="raw" name="corona_asset_widget_theme_pickerwheel_mask" id="0x7f030006" />
+    <public type="raw" name="corona_map_view" id="0x7f030007" />
+</resources>

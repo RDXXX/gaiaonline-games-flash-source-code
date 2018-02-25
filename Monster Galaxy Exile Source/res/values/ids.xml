@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="settings.effectsvolume">false</item>
+    <item type="id" name="settings.musicvolume">false</item>
+    <item type="id" name="settings.tammeralerts">false</item>
+    <item type="id" name="settings.dailyprizesalert">false</item>
+    <item type="id" name="settings.mogarestedalert">false</item>
+    <item type="id" name="settings.islandalerts">false</item>
+    <item type="id" name="settings.version">false</item>
+    <item type="id" name="settings.udid">false</item>
+    <item type="id" name="tweaks.enable">false</item>
+    <item type="id" name="tweaks.otheroptions">false</item>
+    <item type="id" name="tweaks.bluecoffees">false</item>
+    <item type="id" name="tweaks.starseeds">false</item>
+    <item type="id" name="tweaks.mogacash">false</item>
+    <item type="id" name="tweaks.customrivalstartingenergy">false</item>
+    <item type="id" name="tweaks.rivalstartingenergy">false</item>
+    <item type="id" name="tweaks.save">false</item>
+    <item type="id" name="tweaks.cancel">false</item>
+    <item type="id" name="tweaks.autoplay">false</item>
+    <item type="id" name="tweaks.savesnap">false</item>
+    <item type="id" name="tweaks.loadsnap">false</item>
+    <item type="id" name="tweaks">false</item>
+</resources>

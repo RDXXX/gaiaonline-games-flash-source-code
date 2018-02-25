@@ -1,0 +1,304 @@
+
+effects1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zodiacwhiletapping
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zodiacweak
+  rotate: false
+  xy: 66, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ZodiacTap
+  rotate: false
+  xy: 132, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zodiacstrong
+  rotate: false
+  xy: 198, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zodiacneutral
+  rotate: false
+  xy: 264, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+RunAwayFail
+  rotate: false
+  xy: 330, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+RunAway
+  rotate: false
+  xy: 396, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Ring
+  rotate: false
+  xy: 462, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PuffSmokeGlow
+  rotate: false
+  xy: 528, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+PuffSmoke
+  rotate: false
+  xy: 594, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+IslandUnlockedParticles
+  rotate: false
+  xy: 660, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BlueStars
+  rotate: false
+  xy: 726, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BlueCoffee3
+  rotate: false
+  xy: 792, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BlueCoffee2
+  rotate: false
+  xy: 858, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BlueCoffee1
+  rotate: false
+  xy: 924, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Stars
+  rotate: false
+  xy: 0, 66
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+SeedCaptureEntrance
+  rotate: false
+  xy: 66, 66
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+SeedCapture
+  rotate: false
+  xy: 132, 66
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BlueCoffee4
+  rotate: false
+  xy: 198, 66
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+inventory
+  rotate: false
+  xy: 264, 66
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
+MoveEffects1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scorpio
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sagittarius
+  rotate: false
+  xy: 66, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pisces
+  rotate: false
+  xy: 132, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+leo
+  rotate: false
+  xy: 198, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+hit4
+  rotate: false
+  xy: 264, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+chargeB
+  rotate: false
+  xy: 330, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+chargeA
+  rotate: false
+  xy: 396, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+virgo
+  rotate: false
+  xy: 0, 66
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+taurus
+  rotate: false
+  xy: 66, 66
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+libra
+  rotate: false
+  xy: 132, 66
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hit5
+  rotate: false
+  xy: 198, 66
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hit3
+  rotate: false
+  xy: 264, 66
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hit2
+  rotate: false
+  xy: 330, 66
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hit1
+  rotate: false
+  xy: 396, 66
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+gemini
+  rotate: false
+  xy: 462, 0
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+capricorn
+  rotate: false
+  xy: 462, 58
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+cancer2
+  rotate: false
+  xy: 520, 0
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+cancer1
+  rotate: false
+  xy: 520, 58
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+aries2
+  rotate: false
+  xy: 578, 0
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+aries1
+  rotate: false
+  xy: 578, 58
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+aquarius2
+  rotate: false
+  xy: 636, 0
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+aquarius1
+  rotate: false
+  xy: 636, 58
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

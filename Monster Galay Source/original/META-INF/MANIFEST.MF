@@ -1,0 +1,2262 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/data/sounds/b_p_kick_hit.mp3
+SHA1-Digest: 7BqOYgWhRA2upQS3w6ZWlZkVV7Q=
+
+Name: assets/data/world.map.no.islands.4.png
+SHA1-Digest: Hy11k6LDKAJ+PjWMlMfc7mJyX7U=
+
+Name: assets/data/downloaded/entireMogas/ariesthor.png
+SHA1-Digest: ryIiL1abrIOY2uG6cLBJ3ZFiXrU=
+
+Name: assets/data/hvga/blurmogas23.png
+SHA1-Digest: JfUr51tcgjE2wkV3WSqVUH+g7j4=
+
+Name: res/drawable/facebook_icon.png
+SHA1-Digest: 9jTbeG4b8nJZlZss16UPfagqlUs=
+
+Name: assets/data/downloaded/portraitMogas/p_stego.png
+SHA1-Digest: qH5EUSpsykAfkAS0fU5dmfITmlU=
+
+Name: assets/data/downloaded/entireMogas/searam.png
+SHA1-Digest: 8DjN+1ggNlptZAsGCpfq+urXYkE=
+
+Name: assets/data/downloaded/portraitMogas/p_serpac.png
+SHA1-Digest: +cTTl2fzKmhWt2p2tguvm8BPTIw=
+
+Name: assets/data/hvga/shop1.png
+SHA1-Digest: jSoFNwEeelbye0zNTL8gJBBcEJg=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_landfill_4.854.
+ jpg
+SHA1-Digest: 5aLnVNOvkUtzYITrquU9BqBq3sc=
+
+Name: assets/data/sounds/b_p_super_headbutt_hit.mp3
+SHA1-Digest: 7iMJofHK+wWHDvR6MAUxKWMiRJA=
+
+Name: assets/data/hvga/world2.png
+SHA1-Digest: zJ+zhoxoy3aWYM995DZKsvJu/aE=
+
+Name: assets/data/downloaded/island/maps/landfill_map.854.jpg
+SHA1-Digest: ka8QgvYJSbsf2j9chdq4+d+ATcU=
+
+Name: assets/data/sounds/b_p_super_headbutt.mp3
+SHA1-Digest: dnJ5imRstEixLMEwt4IEnwww5xs=
+
+Name: assets/data/downloaded/portraitMogas/p_leo.png
+SHA1-Digest: xgSq7jF6SujmFIpqPOyYSSAV9dI=
+
+Name: assets/data/downloaded/portraitMogas/p_korozinu.png
+SHA1-Digest: mYrW359x9/7sAFagGbF9H2YsPf4=
+
+Name: res/drawable-mdpi-v9/ic_stat_starseed.png
+SHA1-Digest: vaNwKUmar8GgP02L1IT9RC5Ts6w=
+
+Name: assets/data/red.circle.png
+SHA1-Digest: gbSR42mq7qXiLp0e4F5iX2QA1zQ=
+
+Name: assets/data/downloaded/island/maps/gateway_map.854.jpg
+SHA1-Digest: iQPsOChCYJMvtouor+76eC574rc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_landfill_2.854.
+ jpg
+SHA1-Digest: T7pLH0ei5eyhgWn4KBvvwjJSu70=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_farmland_4.854.
+ jpg
+SHA1-Digest: g/zvepytZkCWkkTJpdxDQZPspu8=
+
+Name: assets/data/hvga/blurmogas19.png
+SHA1-Digest: pKnEn4p3a8hhST5BQ3AYAswROeM=
+
+Name: res/drawable/starseed.png
+SHA1-Digest: WLo6mpJhKZQOTnVkKwcnR8x/ruI=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_infoplane_1.854
+ .jpg
+SHA1-Digest: mQUqlGWTXyiPhS9jwex3/L/s9pc=
+
+Name: assets/data/hvga/npcs8.png
+SHA1-Digest: q/sWvQlsVkpKlmPOa00VKEmRafc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_4.854.jp
+ g
+SHA1-Digest: wNBgjOt9vuOO+PBTaKO5G2Eug/8=
+
+Name: assets/data/downloaded/portraitMogas/p_chidi.png
+SHA1-Digest: R+u7AIdLheRHdPovFKDr2+05ZzU=
+
+Name: assets/data/downloaded/portraitMogas/p_peepee.png
+SHA1-Digest: xL6PI8CVmF9Zs8aMDSwOArccmX8=
+
+Name: assets/data/downloaded/island/maps/toys_map.854.jpg
+SHA1-Digest: mKRMzMqsGHry2Uhg8uNFvhgGlsY=
+
+Name: assets/data/downloaded/portraitMogas/p_rhino.png
+SHA1-Digest: ENIuXMWwy5ypG9Di5GYigbFOAMM=
+
+Name: assets/data/downloaded/entireMogas/meano.png
+SHA1-Digest: q4/2kHbxJjOe4Hj5vIazbeoKPNc=
+
+Name: assets/data/downloaded/portraitMogas/p_kurogane.png
+SHA1-Digest: ovUTHyahWGNupZ3jzwq9ut/VVCo=
+
+Name: assets/data/hvga/blurmogas8.png
+SHA1-Digest: jP8bElm6MDvGebdAYjHruh0Ib2Q=
+
+Name: assets/data/downloaded/entireMogas/azrael.png
+SHA1-Digest: JwefbrLNwZQZz2d+qgME9jw9R5A=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_portalout_2.854
+ .jpg
+SHA1-Digest: ONKQIxW00WLxjCCpfiTu9HVujSA=
+
+Name: assets/data/downloaded/entireMogas/sandburrow.png
+SHA1-Digest: B0jvkrH/K1rqANqsTIGYkW6stl0=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_landfill_3.854.
+ jpg
+SHA1-Digest: pbLptM+gbZrARI8pRzLBNnzrPQs=
+
+Name: assets/data/downloaded/portraitMogas/p_gora.png
+SHA1-Digest: 7D7JEoS+U0KAJy6WQqS3Z04wUhY=
+
+Name: assets/data/downloaded/portraitMogas/p_reptile.png
+SHA1-Digest: iudnqyFXbVklG1KJ6nOAd59sGfM=
+
+Name: assets/data/downloaded/entireMogas/argos.png
+SHA1-Digest: hTW38c9xECvoRETN4cxgdO9xMZE=
+
+Name: assets/data/hvga/npcs6.png
+SHA1-Digest: pec/p6O9HvgxCqj4+4Y2xOlnXxw=
+
+Name: assets/data/effects/MoveEffects/chargeB.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/effects/MoveEffects/cancer1.png
+SHA1-Digest: U6AfQZkO39vTye0tk0s6Ld2HaYI=
+
+Name: assets/data/downloaded/portraitMogas/p_hydrusa.png
+SHA1-Digest: dceBKdRXqpbmg86rK4BmiBAUoUg=
+
+Name: assets/data/downloaded/entireMogas/osteros.png
+SHA1-Digest: my3WYHy3VfnVeOWY2eutf5O0M8w=
+
+Name: assets/data/sounds/ui_story_quest_complete.mp3
+SHA1-Digest: SYTNJbjQEu9o63aKXuhE6WAFpGA=
+
+Name: assets/data/downloaded/entireMogas/hotdog.png
+SHA1-Digest: v44jegVEeKM68YsFCzlbYSSOYRA=
+
+Name: assets/monsterGalaxy.db
+SHA1-Digest: NfyUSGpYptVaT02JIgKPdyQBrHI=
+
+Name: assets/data/hvga/battleReport1.png
+SHA1-Digest: 6iIuOaXq2sfZsLPxAninv10ovIU=
+
+Name: assets/data/downloaded/entireMogas/tenpac.png
+SHA1-Digest: 0vFBYt0K9jkAKbSRz6Y+4SpOlII=
+
+Name: assets/data/downloaded/portraitMogas/p_shieldmaiden.png
+SHA1-Digest: hQRrKsjtzQPTaWRxVMY7vEuyehw=
+
+Name: assets/data/downloaded/entireMogas/marionkitte.png
+SHA1-Digest: /SlhjSkPDZ9NSAK0QqInjF81zNY=
+
+Name: assets/data/downloaded/entireMogas/gondula.png
+SHA1-Digest: /3CbdOF/pA3pWEtmw9fcXafqlzo=
+
+Name: assets/data/sounds/b_level_up.mp3
+SHA1-Digest: OCjyUM46Q7SE7kw3ZSoY8w8521s=
+
+Name: assets/data/downloaded/portraitMogas/p_titus.png
+SHA1-Digest: sC/bpLXvkxWaOvF02/lPMmlJPw4=
+
+Name: assets/data/downloaded/portraitMogas/p_clovey.png
+SHA1-Digest: tjxFXSO4rnLXuFhKr6P9cKEA+dc=
+
+Name: assets/data/downloaded/portraitMogas/p_lizard.png
+SHA1-Digest: OZ2Ny0vK84K+0XQd7ZsmPYlYsdA=
+
+Name: assets/data/sounds/b_z_tread.mp3
+SHA1-Digest: TAdkHB7T2MylcDlLgeuNktQoQ0I=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_boneyard_2.854.
+ jpg
+SHA1-Digest: nMc9lxoa/Kc2vJd34P1eHUjrJSA=
+
+Name: assets/data/downloaded/portraitMogas/p_war_lepus.png
+SHA1-Digest: NbOIZnqEq39INhfSb8UICKM1KhY=
+
+Name: assets/data/downloaded/portraitMogas/p_chamepo.png
+SHA1-Digest: 2AEhkCfqiDUxpmiZKIOgEUfF5ro=
+
+Name: res/drawable-large-mdpi/icon.png
+SHA1-Digest: Ji21yqcrX++Llce/GFMIQtaoQW4=
+
+Name: assets/data/downloaded/entireMogas/shieldmaiden.png
+SHA1-Digest: us3R/eGqxbjTlTxxZEmVVFjPA0o=
+
+Name: assets/data/hvga/blurmogas14.png
+SHA1-Digest: AqR2CDRG59YF+KXwu7xZL2a4220=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_verdura_2.jpg
+SHA1-Digest: Bk9VqlUZilDqF9Jway11S/m48vs=
+
+Name: assets/data/downloaded/portraitMogas/p_tenpac.png
+SHA1-Digest: pQK0No22GlACnXudnQIBSqxojGA=
+
+Name: assets/data/effects/BlueCoffee1.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/sounds/ui_menu_slide.mp3
+SHA1-Digest: RWLC9MAMuvc/L9Y/Yi25OA1Oylg=
+
+Name: assets/data/downloaded/entireMogas/tawakan.png
+SHA1-Digest: Z+FfcWhFMpHsSF3mzWfy6Cj7mz4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_verdura_3.jpg
+SHA1-Digest: q0KQqzPr8fLrg1YTqkGQIa8yWuE=
+
+Name: assets/data/downloaded/portraitMogas/p_silverclaw.png
+SHA1-Digest: 95sjKJQuKQykPCEqcL19OpurvCc=
+
+Name: assets/data/sounds/b_win_end.mp3
+SHA1-Digest: Jk/ghnJDfchti8IWri3HybAZ0xM=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_misfit_toys_4.j
+ pg
+SHA1-Digest: NvuIzcvvuoKImBU74Omtq3Ljyyk=
+
+Name: assets/data/effects/pack
+SHA1-Digest: OcK4JZc7Uu5+4itR5rh1seV/MpM=
+
+Name: assets/data/downloaded/entireMogas/nox.png
+SHA1-Digest: Ipa6V7kqz4QClioMdQzpgUaEVr4=
+
+Name: assets/data/downloaded/portraitMogas/p_ariesthor.png
+SHA1-Digest: 6K1fHeu8WE5iOmkRm7AGfo9mJxE=
+
+Name: assets/data/hvga/zodiacattack1.png
+SHA1-Digest: PKzjOVwgBjz3Ybz36yPyG1BF8m0=
+
+Name: assets/data/sounds/Ambience-Gateway.mp3
+SHA1-Digest: YxuEEGeUIVG8MH34sPkQvHIMPWQ=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_garden_4.jpg
+SHA1-Digest: b++JpmV0OWtwjkrotHgs1kYD7m4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_hell_2.jpg
+SHA1-Digest: BPvaxSH6mtP7GtBh+HxwyZcN8Kg=
+
+Name: assets/data/downloaded/portraitMogas/p_cherlampeter.png
+SHA1-Digest: 35GoNz+wa0Q2nMEClOtn0GSOUd0=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_boneyard_4.854.
+ jpg
+SHA1-Digest: un6oIv0hwB5lbhe/dFCPhA+1MDU=
+
+Name: assets/data/downloaded/portraitMogas/p_winter_pora.png
+SHA1-Digest: muYfnknDMBVaW+rxnyVYKk8KsF8=
+
+Name: assets/data/hvga/battle1.png
+SHA1-Digest: R03Xzl/aCo6Vyo2yCOtxOMUlPWQ=
+
+Name: assets/data/downloaded/entireMogas/stego.png
+SHA1-Digest: hcgBj4AwS6RcKtocanfpzrXk/yM=
+
+Name: assets/data/downloaded/entireMogas/duovalkyr.png
+SHA1-Digest: tNIbT6jrJyBHj9VoeKFFTxQUgas=
+
+Name: assets/data/downloaded/entireMogas/bamf.png
+SHA1-Digest: GO4wl+NJaGFXKT6VdwTXqZwbdIA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_gateway_2.854.j
+ pg
+SHA1-Digest: aF9tMhLHEORH/p38bTkViKUEK3Y=
+
+Name: assets/data/effects/zodiac_strong.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/sounds/b_z_quake.mp3
+SHA1-Digest: szyBIPXujo8Yh07hopymXGI5cUM=
+
+Name: assets/data/downloaded/entireMogas/juggernaut.png
+SHA1-Digest: o4Qe0nJXWujQnrR9ZnRUGyyQeSc=
+
+Name: res/drawable/edittext.xml
+SHA1-Digest: hzZEZ/kvhBIl2dZFRB/ytVKOmAI=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_landfill_1.jpg
+SHA1-Digest: pTIKOGT4bV2/5UEajB6+8BDfMIU=
+
+Name: assets/data/world.map.no.islands.1.png
+SHA1-Digest: tBzFfta79L+CBd6ea469xTb4p3M=
+
+Name: assets/data/hvga/npcs7.png
+SHA1-Digest: q5SoTMsnjS7yFjm7JT6F/0yeTnI=
+
+Name: assets/data/downloaded/entireMogas/southpaw.png
+SHA1-Digest: q2SGC5FIJEn50e6E+269c7t7W7Q=
+
+Name: assets/data/downloaded/portraitMogas/p_jackalope.png
+SHA1-Digest: z8kBT9RHYf8b8CvnLfTaq7RMZcQ=
+
+Name: assets/data/downloaded/entireMogas/teef.png
+SHA1-Digest: wcZcNxHmNS08gFHBgbFNHo8hDs8=
+
+Name: assets/data/downloaded/portraitMogas/p_yoake.png
+SHA1-Digest: 4+zZDKUgifcvvZHnsmP9yMDscZ4=
+
+Name: assets/data/sounds/b_p_super_punch_hit.mp3
+SHA1-Digest: C1zM9Fib5ywn9Zo3+KV2zLxjFgc=
+
+Name: assets/data/effects/MoveEffects/scorpio.png
+SHA1-Digest: +D5Lx1xrprp1pfrRvYqfyM+aaVk=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_3.854.jp
+ g
+SHA1-Digest: gEXgOvlGZynzEBJWX5Zgttyh6EQ=
+
+Name: assets/data/hvga/startup1.png
+SHA1-Digest: 5jTEYwfPElv9JjjtWYdhMJBo8TI=
+
+Name: assets/data/downloaded/entireMogas/beefee.png
+SHA1-Digest: ssUNokWtvGG8PzRGsywKt7tVWvA=
+
+Name: assets/data/downloaded/entireMogas/ie.png
+SHA1-Digest: MjOYXZKHlHrDTIQ84vqoY48NL3U=
+
+Name: assets/data/effects/MoveEffects/hit3.png
+SHA1-Digest: IxBEzoK5q9aae+3Rwz9Mw9RG5PA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_verdura_3.854.j
+ pg
+SHA1-Digest: 5xnBuOH7ITnOnPIzkz6XISzuICo=
+
+Name: assets/data/sounds/b_p_tackle_hit.mp3
+SHA1-Digest: snIzcxk7ckcbEbm6EUDl1wYN5hs=
+
+Name: assets/data/downloaded/entireMogas/blackfang.png
+SHA1-Digest: BbwUx8vNAo0Y2ojFU0UpDjgWDrk=
+
+Name: assets/data/world.map.no.islands.3.png
+SHA1-Digest: 2eUfM2cUXmIL3yVLbdQCXU/vjhw=
+
+Name: assets/data/downloaded/entireMogas/heartache.png
+SHA1-Digest: omHNMG1OTi9g+toQqwvIgENOSqw=
+
+Name: assets/data/sounds/b_dodge.mp3
+SHA1-Digest: 7o1jiHfxCj6RRoiNZgh8bl1i96w=
+
+Name: assets/data/hvga/pause1.png
+SHA1-Digest: imM+R7AsvMIiU0eu2dWo2xxr8q4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_landfill_1.854.
+ jpg
+SHA1-Digest: PszAzJN2J4jxNSPnKtLQbBA99Tw=
+
+Name: assets/data/sounds/b_found_item.mp3
+SHA1-Digest: SZCIyo/5ZQGRKVhqgqMeBpslLzw=
+
+Name: assets/data/downloaded/entireMogas/soulcleaver.png
+SHA1-Digest: QA+sgloeueX2usYpcISGQmFnXQs=
+
+Name: assets/data/downloaded/entireMogas/paul.png
+SHA1-Digest: rx7iDnYNwwk0ScwF6DxL2t6YHiI=
+
+Name: assets/data/downloaded/entireMogas/heartbreaker.png
+SHA1-Digest: eYaBUvOQ/y1+6vsJ30j68F12QQw=
+
+Name: assets/data/downloaded/portraitMogas/p_easter_bunny.png
+SHA1-Digest: TZPtyYzs0FlHCd70TGYZ4PcxjMA=
+
+Name: assets/data/sounds/b_z_background.mp3
+SHA1-Digest: KcPaTPxe0qBQ131cBUiuI8+wSV0=
+
+Name: assets/data/effects/BlueCoffee2.png
+SHA1-Digest: pQtPzmmV6jJX6c3KLaSx2O3w364=
+
+Name: assets/data/effects/MoveEffects/hit1.png
+SHA1-Digest: yt6PmHLClnYExqTzYnsU5MPcINU=
+
+Name: assets/data/effects/zodiac_neutral.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/entireMogas/buninja.png
+SHA1-Digest: 6KFGysEIiVR4+k4pHCSfHluofkk=
+
+Name: assets/data/downloaded/portraitMogas/p_dewdevil.png
+SHA1-Digest: QSW7gKevPd+xw2Ef56VWDyoZhJo=
+
+Name: assets/data/downloaded/entireMogas/gnarknight.png
+SHA1-Digest: I78v1G2nxlvkpD+dzHBySDsErFQ=
+
+Name: assets/data/downloaded/island/maps/garden_map.jpg
+SHA1-Digest: mXzqT1nkwPXP7IoN7ouw3mHU2G0=
+
+Name: assets/data/downloaded/entireMogas/ravenous.png
+SHA1-Digest: D4s3WWkFRtbGDji/wuToNjZwt6k=
+
+Name: assets/data/hvga/blurmogas2.png
+SHA1-Digest: X+/hZ7UpZ7RCMrNk5FuAxu6VqaU=
+
+Name: assets/data/hvga/slotmachine1.png
+SHA1-Digest: o/yTxxz9b41HfGD8Iih5zI7Su6Y=
+
+Name: assets/data/downloaded/portraitMogas/p_reaper.png
+SHA1-Digest: xC3ItWlJgJPWdj6VUevr33EqZHQ=
+
+Name: assets/data/downloaded/portraitMogas/p_pirate.png
+SHA1-Digest: NtFMjtyhWGSqpKzSm+UsPY39qw0=
+
+Name: assets/data/downloaded/portraitMogas/p_mongrel.png
+SHA1-Digest: 4vZzJGGOd7zZN978U38gQqUq1V4=
+
+Name: assets/data/downloaded/entireMogas/wretch.png
+SHA1-Digest: WwJ+N8SKG3h+VS6/zEZcITIm8wA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_farmland_1.jpg
+SHA1-Digest: ++Z55NjSt256mo0+rOx0EYucnV4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_verdura_2.854.j
+ pg
+SHA1-Digest: AMJu7q7ZCRQ3YVIQLRC1lXX5fOE=
+
+Name: assets/data/effects/SeedCaptureEntrance.png
+SHA1-Digest: iHE3xT7mrEGXnbhgYiLdGD6h4EQ=
+
+Name: assets/data/downloaded/entireMogas/nebugon.png
+SHA1-Digest: 9Ls7EBU6cYEsQNKRQEZJmD5/HMo=
+
+Name: assets/data/downloaded/entireMogas/cherlampeter.png
+SHA1-Digest: VCXChYtit1O7/BNCfu+Zp+E4640=
+
+Name: assets/data/loading.png
+SHA1-Digest: mpIojjnfNUqpwyxBqJO1myniEmM=
+
+Name: assets/data/sounds/m_battle_adventure3.mp3
+SHA1-Digest: Rdxp2PAYPpFNCoIU7UR3O23vV1w=
+
+Name: assets/data/downloaded/entireMogas/martini.png
+SHA1-Digest: FjGWXRxejl8eQA5XOIQxqjXs9Cw=
+
+Name: assets/data/downloaded/island/maps/wyckid_game_map.jpg
+SHA1-Digest: i2gQIaVZIjWFRqh5IknJyJ3FVq8=
+
+Name: res/drawable/ic_stat_starseed.png
+SHA1-Digest: OC8/cHT0YPB61mulbZodBm39N/s=
+
+Name: assets/data/downloaded/entireMogas/peejay.png
+SHA1-Digest: idi+MKnGibKkW14b2vBFb+8NY7A=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_landfill_4.jpg
+SHA1-Digest: 9crt0Efiqn+TuLMQ1L4ardDc+aU=
+
+Name: assets/data/downloaded/portraitMogas/p_ie.png
+SHA1-Digest: CgRPsWPbc+qktD7szxFWWFjXatE=
+
+Name: assets/colors.properties
+SHA1-Digest: nLnHnmnJy+BstClTGypo3OWbb3A=
+
+Name: assets/data/downloaded/entireMogas/bushidon.png
+SHA1-Digest: lKwUlO1gRiDtyjNx9Do5CuRPCRM=
+
+Name: assets/data/hvga/zodiacattack3.png
+SHA1-Digest: ehN4JwBmMUXxiD5rtOarar74CHE=
+
+Name: assets/data/downloaded/entireMogas/spike.png
+SHA1-Digest: fRdYamCXoIY9XqgEPalPfUEnPXA=
+
+Name: assets/data/fonts/VAGRundsRegular.fnt
+SHA1-Digest: GTgUWnxx7QLhu1aoWpPZFRdml0c=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_home_1.854.jpg
+SHA1-Digest: bqwgJ0h2S+DPutDYmBHJiCaWHuU=
+
+Name: assets/data/sounds/b_p_super_kick.mp3
+SHA1-Digest: UdZJxYaSMVARgNwirIyDszQvERc=
+
+Name: assets/data/downloaded/portraitMogas/p_mono.png
+SHA1-Digest: I+WUWBjhp3ZuFLkS/66rKHIRwZQ=
+
+Name: res/anim/cicle.xml
+SHA1-Digest: cAveT93zaTx+TDsVyltYeMBboho=
+
+Name: assets/data/sounds/b_win_boss.mp3
+SHA1-Digest: AJILVLgS1vhdf2o58DbObXvAy00=
+
+Name: assets/data/downloaded/entireMogas/wombat.png
+SHA1-Digest: 2sRFVUfnQoPtkjyIdoeREhp3a3Q=
+
+Name: assets/data/sounds/b_bonus_thwack.mp3
+SHA1-Digest: gSwwE8WqqVC/mh+0w2Rfeo4umyQ=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: assets/data/sounds/b_p_super_kick_hit.mp3
+SHA1-Digest: lSXbOkasSIF8E0K5AU+0UgkOiYM=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_bloodsport_1.jp
+ g
+SHA1-Digest: pIFLfcPcZwxvHx1Shyb/Iy82PWg=
+
+Name: assets/data/hvga/npcs12.png
+SHA1-Digest: 68RIL7AjgBLxFbgLM5UntrvLsBY=
+
+Name: assets/data/downloaded/entireMogas/winter_pora.png
+SHA1-Digest: cEBFz1s/JtYbPkUhn0ognzgcr3E=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: P3HE/cN1DH97qEFhaWUqiBLjuUY=
+
+Name: assets/data/downloaded/entireMogas/kysebok.png
+SHA1-Digest: be3WSrc6jAGAKT4InlvkrZOCLq8=
+
+Name: assets/data/downloaded/entireMogas/tyr.png
+SHA1-Digest: 39ywnzNMiTHKCrOmeip2y6fyab0=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_haterdome_1.jpg
+SHA1-Digest: zgRalGX4WBAYAHKLYKohujq1liw=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_haterdome_3.jpg
+SHA1-Digest: Q1mUkW0ubu9JuULprL532ngqtzc=
+
+Name: assets/data/hvga/quest1.png
+SHA1-Digest: Qmv6nvZHEdXcPDkLwJBeMamb1xA=
+
+Name: res/drawable-mdpi/ic_stat_starseed.png
+SHA1-Digest: +KxwFlZFoTR5WU81BVw8we+D8Oc=
+
+Name: assets/data/sounds/b_z_bramble.mp3
+SHA1-Digest: H/81rRWbHW7wBjGuvDry+KQlrpE=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_landfill_2.jpg
+SHA1-Digest: qMMf4hsSRs2tPk5S+0TVX7but8A=
+
+Name: assets/effects.json
+SHA1-Digest: Yw0UhaXyG+54tUCK8H04ZPIsbvg=
+
+Name: assets/data/hvga/settings1.png
+SHA1-Digest: urvzDrt/0AWejYR7+B5KOsI7AMs=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_misfit_toys_3.8
+ 54.jpg
+SHA1-Digest: ntZPCAloP5Z+lKIjp0Dr4muNmHI=
+
+Name: assets/data/hvga/capture1.png
+SHA1-Digest: pPlM5HzNtp8fSCmZQy+zABM1l9c=
+
+Name: assets/data/downloaded/portraitMogas/p_warplet.png
+SHA1-Digest: xeFecZ3D1HnautQx8oSS6g40Enk=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_haterdome_1.854
+ .jpg
+SHA1-Digest: WITOdyPPMU7DOMmMAQM5T3ziB0I=
+
+Name: assets/data/downloaded/portraitMogas/p_brineep.png
+SHA1-Digest: 0rrWcdhp5BZRYQkwmTA3kjfUTes=
+
+Name: assets/data/downloaded/entireMogas/lizard.png
+SHA1-Digest: Ujp0ecNh4pq15+1QoyZ2Nfj9FjQ=
+
+Name: assets/data/downloaded/portraitMogas/p_peejay.png
+SHA1-Digest: Vgkv2MZEtqj6YeBByoEpiI5TKyM=
+
+Name: assets/data/downloaded/entireMogas/mongrel.png
+SHA1-Digest: sXgGmFVk0AbqFmH+J3cUwg7h+Zs=
+
+Name: assets/data/hvga/slotmachine3.png
+SHA1-Digest: Z+Ob7eY01Zn6gYDtKoC4go/pBow=
+
+Name: assets/data/downloaded/portraitMogas/p_shark.png
+SHA1-Digest: pvabcT0zkCgw1wGshcmfCPt9WAQ=
+
+Name: res/drawable-xhdpi/close.png
+SHA1-Digest: 0IaTuYpHdwNgyn8PrCfM4P1LSUM=
+
+Name: assets/data/downloaded/entireMogas/tigon.png
+SHA1-Digest: fnj5CuWx/281uaeogVVHcjwM11Q=
+
+Name: assets/data/sounds/m_b_win.mp3
+SHA1-Digest: r/jGHXnzqtPVaEOlozWNAFG2gA8=
+
+Name: assets/data/hvga/share1.png
+SHA1-Digest: 6fc6cwjLhUUG7d4BLEYUz7Q45m8=
+
+Name: assets/data/downloaded/portraitMogas/p_mechbunny.png
+SHA1-Digest: YfZuBEQ+cUWQzKAxdA85CwhiVgQ=
+
+Name: lib/armeabi-v7a/libgdx.so
+SHA1-Digest: Sb0JzCxtMRGUgf046eMYHwXzZ8E=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_hell_4.jpg
+SHA1-Digest: lnLewz+U0KSHLrjtY0heaW8STvg=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: NKfaId8zym+vipGl4ED9BrPF09c=
+
+Name: assets/data/hvga/world6.png
+SHA1-Digest: wzy9UN5DbM68spLIuNKGJI1HdGs=
+
+Name: assets/data/hvga/storyDialog1.png
+SHA1-Digest: fOrz24xE/fAI2+gU6/UmxyJOIOI=
+
+Name: assets/data/downloaded/entireMogas/dewdevil.png
+SHA1-Digest: JOuipDu98LVeYU1usXD5UnG+gFU=
+
+Name: assets/data/sounds/b_ko.mp3
+SHA1-Digest: +YGsY7RqBKhrTU6PCpp82ApvEe4=
+
+Name: assets/data/hvga/mogahud1.png
+SHA1-Digest: 1fsyFDc2fOCb+J/tFFwGKSexWZA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_boneyard_1.jpg
+SHA1-Digest: j4tIErOjcmdYE1qPyaTlykjYras=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_home_3.jpg
+SHA1-Digest: DJi0cGsCosMaPIUC796E0u4S8OE=
+
+Name: assets/data/hvga/quest2.png
+SHA1-Digest: G2cQHaBs1rK9SegjTK5aJoI5kOg=
+
+Name: assets/data/effects/MoveEffects/virgo.png
+SHA1-Digest: 4t/cYPvAg6qEZsgwSYMuXYXJobY=
+
+Name: assets/data/downloaded/portraitMogas/p_sheriff.png
+SHA1-Digest: TEIu8Bx3Ss1tAJTf748cWvhQoG8=
+
+Name: assets/data/downloaded/entireMogas/winja.png
+SHA1-Digest: khMBCdrr5KlechSthgIKZ2b5ADo=
+
+Name: res/drawable-hdpi/facebook_icon.png
+SHA1-Digest: V2LEVKYg2PFb0nYYOBnKjQliS/s=
+
+Name: assets/fonts/VAGRunds.ttf
+SHA1-Digest: 74toOc5P8/JQ6RR5WRgoXuwrzFY=
+
+Name: assets/data/hvga/blurmogas20.png
+SHA1-Digest: LPPZO9rei9ttjwreVcbYJytYxHo=
+
+Name: assets/data/downloaded/entireMogas/diabolo.png
+SHA1-Digest: 7o1NJErMWhqrYeSPpN8zN1Z+suk=
+
+Name: assets/data/hvga/npcs11.png
+SHA1-Digest: NwaHjzuJoGJbLnSmfLAnJqyxEYQ=
+
+Name: assets/data/effects/MoveEffects/leo.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_garden_3.854.jp
+ g
+SHA1-Digest: gSg0TEM0AcCx8r6EFaDymzb6vTY=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_portalout_1.854
+ .jpg
+SHA1-Digest: XOrZ74YKsTlIkrw0qw5dNGo377Q=
+
+Name: assets/data/effects/inventory.png
+SHA1-Digest: O4pmts9YhAHfeG2k1mRfIkKIgv8=
+
+Name: assets/data/effects/SeedCapture.png
+SHA1-Digest: iHE3xT7mrEGXnbhgYiLdGD6h4EQ=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_farmland_3.jpg
+SHA1-Digest: 0kwraBzhRGV4JEegFEnGmoQSang=
+
+Name: assets/data/downloaded/portraitMogas/p_volpeo.png
+SHA1-Digest: GwBe6Jx7jgWf9UQy4Tt0P2uIk18=
+
+Name: assets/data/hvga/meter1.png
+SHA1-Digest: bgQjqCX7H/VrQC7K2LrXBbMg57M=
+
+Name: assets/data/downloaded/portraitMogas/p_glowbug.png
+SHA1-Digest: MLjDCFOGvX+vZVvWT4imgLWmK8Q=
+
+Name: assets/data/hvga/zodiacattack6.png
+SHA1-Digest: DZIs6L6ebUUY+pXlkdfd4q/IXU0=
+
+Name: assets/data/downloaded/entireMogas/alyx.png
+SHA1-Digest: 2BG1NoiFzs0nvjhJqwk0FhL9/K8=
+
+Name: assets/data/sounds/IslandStingerScary.mp3
+SHA1-Digest: IT7tyT1D5Exg0h8S6p+AxGJdmDE=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_haterdome_4.854
+ .jpg
+SHA1-Digest: Pl8H7igsAeV+frcn9keXaotsrtw=
+
+Name: assets/data/downloaded/entireMogas/waidio.png
+SHA1-Digest: Tq+uoBMYh2ez+ATi/4DxO454SrI=
+
+Name: assets/data/downloaded/entireMogas/bureti.png
+SHA1-Digest: P8XhEY3BUUEXWVf4+m0p57Az8+0=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_misfit_toys_2.8
+ 54.jpg
+SHA1-Digest: l+aiHVZWGK1feo3gqz6uNwkx3Fc=
+
+Name: res/drawable-ldpi-v9/ic_stat_starseed.png
+SHA1-Digest: 5rkqQdsN0fEJovmLmgu4F8VWrGo=
+
+Name: res/drawable-hdpi-v11/ic_stat_starseed.png
+SHA1-Digest: 0hy+YVjBf8DRSE9Egjmu0BmPHG4=
+
+Name: assets/data/downloaded/portraitMogas/p_warden.png
+SHA1-Digest: iyn6+EwllLEEKihOJwqHL5NEoqU=
+
+Name: assets/data/effects/PuffSmoke.png
+SHA1-Digest: bwTWE5fguCapUXsToPhs/LVYDjA=
+
+Name: assets/data/hvga/island1.png
+SHA1-Digest: lKb2J3zTURC8wMLeTi95iTDIsJU=
+
+Name: assets/data/effects/MoveEffects/hit5.png
+SHA1-Digest: yt6PmHLClnYExqTzYnsU5MPcINU=
+
+Name: assets/data/downloaded/portraitMogas/p_raj.png
+SHA1-Digest: WKZik8Ejs2g2SFlZw10S1e9j+Jk=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_haterdome_4.jpg
+SHA1-Digest: v9soN2RIPnvCkWBIDN5l1jfur9c=
+
+Name: assets/data/downloaded/portraitMogas/p_southpaw.png
+SHA1-Digest: xCkd7YT4womqz4q2gBQUiMPy9Xk=
+
+Name: assets/data/downloaded/portraitMogas/p_azrael.png
+SHA1-Digest: isFVXWR6PwB0KZ/npR+GdzcJHBk=
+
+Name: assets/data/effects/PuffSmokeGlow.png
+SHA1-Digest: bwTWE5fguCapUXsToPhs/LVYDjA=
+
+Name: res/drawable-ldpi-v11/ic_stat_starseed.png
+SHA1-Digest: 5HAiV3GUqQuupC2thDuroMaLx4M=
+
+Name: assets/data/effects/ZodiacTap.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_hell_1.854.jpg
+SHA1-Digest: s8lI8CjvTODy2mglD79ECf3Gy+0=
+
+Name: assets/data/sounds/b_z_ice.mp3
+SHA1-Digest: 7VcbmSuYUa8gHu8qvpBWf5uA3qQ=
+
+Name: assets/data/effects/MoveEffects/cancer2.png
+SHA1-Digest: R3+a34tdVE0aUNHNv0KITXrrq5o=
+
+Name: assets/data/downloaded/entireMogas/golerph.png
+SHA1-Digest: IF8uuPdiR7I8xcwxNorrkFJcgQY=
+
+Name: assets/data/downloaded/island/maps/materials_map.jpg
+SHA1-Digest: 7JHYMZwmgKfylgzpGIOh46v1jIU=
+
+Name: assets/data/sounds/m_shop.mp3
+SHA1-Digest: l8MNmzPLnLHRvxRJIwpPO0Nw1Bw=
+
+Name: assets/data/green.circle.png
+SHA1-Digest: g2Sanue/WvNmm/YHWloduuteMs8=
+
+Name: assets/data/downloaded/portraitMogas/p_grimmace.png
+SHA1-Digest: IXcsChmZA9cfDJvW+/mRarZKjqs=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_infoplane_3.jpg
+SHA1-Digest: ziCqEEil5hzHPVk+B+y9YWdlK0w=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_haterdome_3.854
+ .jpg
+SHA1-Digest: dUQNb2dhrv/DNgzw2TvVihMhOZA=
+
+Name: assets/data/sounds/BattleMusic02.mp3
+SHA1-Digest: 4yYLVsURAu2+IKObismns9uMyU8=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_portalout_1.jpg
+SHA1-Digest: NVxPpDygopEU3RUgx3HcgWK6tsA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_bloodsport_2.jp
+ g
+SHA1-Digest: Jn3y0QpbaBDlaMKJtOczfmWpje4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: mQIbCQAcrg8CLIjFuE3ZJXAZiJU=
+
+Name: assets/animations.json
+SHA1-Digest: 2EXHyyYHduALakGW6eboH72wCjc=
+
+Name: assets/data/hvga/portraitmogas3.png
+SHA1-Digest: q8/vPoUnvW/0L2zoeKW86v0GYrY=
+
+Name: assets/data/downloaded/entireMogas/sherman.png
+SHA1-Digest: pndpau4oEfVbXlcS3TJb6XAEVss=
+
+Name: res/drawable-mdpi-v11/ic_stat_starseed.png
+SHA1-Digest: qIdW2P1LCPJfKEdi1B+z2UK6M4E=
+
+Name: assets/data/sounds/b_lose.mp3
+SHA1-Digest: O5p+DhXyY4C5n4Duq9uhBku84/w=
+
+Name: assets/data/downloaded/entireMogas/humanatee.png
+SHA1-Digest: kfxprXoIo3FQwK8nPvXKUGQgWQU=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_garden_1.854.jp
+ g
+SHA1-Digest: z5awTuEW93J5u9ycU3+4kBER8oI=
+
+Name: res/drawable/close.png
+SHA1-Digest: Nwlm5aDJGXbo6eG5hVvbrq4/cVk=
+
+Name: assets/data/downloaded/entireMogas/piglore.png
+SHA1-Digest: uhzvKExpow+OY8uoC8wI6DPaVAs=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_misfit_toys_1.8
+ 54.jpg
+SHA1-Digest: FAl3D/8QReN+Q2r1gnOisbu4vVc=
+
+Name: assets/data/downloaded/portraitMogas/p_chezvice.png
+SHA1-Digest: X0nwiyLljw3Q2fZk03PfeUdi8dE=
+
+Name: assets/data/hvga/signs1.png
+SHA1-Digest: LLW4PTw52QqTeUSRKurU1wySCss=
+
+Name: assets/data/sounds/b_bonus_intro.mp3
+SHA1-Digest: 7SI1vJmSCdR8tz3hJQNSFicCnu4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_farmland_2.jpg
+SHA1-Digest: 8IcXSrlDV+SdH9LFv4TVutQDUVw=
+
+Name: assets/data/downloaded/entireMogas/silverclaw.png
+SHA1-Digest: CqE3kbRrh6mxHNCs3FXmXeCAOOk=
+
+Name: assets/data/downloaded/portraitMogas/p_lumo.png
+SHA1-Digest: tDEXeKdYg/IG32mG7cFvnm1Ox+o=
+
+Name: assets/data/hvga/blurmogas5.png
+SHA1-Digest: ihhN9XDOxPC2bn1qhpKrWjzm3GM=
+
+Name: classes.dex
+SHA1-Digest: QXZ5IwGWiH0qcmmeG1qOL1jvWJ8=
+
+Name: assets/data/hvga/buttons1.png
+SHA1-Digest: dBSzw4oJWh8KUw/EXvJrQLGZCKI=
+
+Name: assets/data/hvga/trainer2.png
+SHA1-Digest: FWcNhQ+4+Oo9WJ2zRYJGkyRHz/g=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_garden_1.jpg
+SHA1-Digest: VrEPGGBTvHePm75pKy3BtXpKWVw=
+
+Name: assets/data/downloaded/portraitMogas/p_clurich.png
+SHA1-Digest: h6FZx5BDcUjqabaSxoLgZ6wTYac=
+
+Name: assets/data/downloaded/portraitMogas/p_diabolo.png
+SHA1-Digest: fEnOxC5SWRLerw0TF30ujC8EqG4=
+
+Name: assets/data/hvga/world7.png
+SHA1-Digest: c6NPV5yUZLWrg9yHUOwRrrdvaQs=
+
+Name: assets/data/downloaded/portraitMogas/p_bunglon.png
+SHA1-Digest: 8Q5CKorF9GwGE7VM5Gcf/hKux9Q=
+
+Name: assets/data/hvga/blurmogas21.png
+SHA1-Digest: xA6tR9xb8zRDlAsSwPfv1bkDYYw=
+
+Name: assets/data/downloaded/entireMogas/chamepo.png
+SHA1-Digest: W4pTS+/i8r8jvR0EvMyQFuGrbf8=
+
+Name: assets/data/sounds/UniverseMapStinger.mp3
+SHA1-Digest: uG1iXvQLc+qVWjFRXc4Z3ZXZoXA=
+
+Name: assets/data/downloaded/portraitMogas/p_argos.png
+SHA1-Digest: iSsMfArvNZIz/m59V6c21PgqL3w=
+
+Name: assets/data/hvga/blurmogas22.png
+SHA1-Digest: SPS6rpqEkkRGlphpqJ9V0OJQYEg=
+
+Name: assets/data/downloaded/entireMogas/kurogane.png
+SHA1-Digest: taI64TvoB2Gu0LFsLwCk1txG7Yk=
+
+Name: assets/data/downloaded/portraitMogas/p_martini.png
+SHA1-Digest: fyCdRWQDZZwCXsTu0ce7bQWbTmg=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_bloodsport_4.jp
+ g
+SHA1-Digest: Pmxg+0aTq6Bs3Lnv88RaEsmzO+Y=
+
+Name: assets/data/hvga/thumbnail3.png
+SHA1-Digest: e6KVLQfTh9RvJfIZbbAWUiCNOsU=
+
+Name: assets/data/downloaded/portraitMogas/p_jackrose.png
+SHA1-Digest: h8PqeaGsocW44JYeW7OWvQDIIGk=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_home_2.854.jpg
+SHA1-Digest: 4nUGB/DrK58miPKP0rgZeks78ng=
+
+Name: assets/data/hvga/world4.png
+SHA1-Digest: l+zqPxAp5ranJ1bT98fIbdW0iL4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_2.jpg
+SHA1-Digest: ZaexWFrZhEM32fKJ75OpZ06zclA=
+
+Name: assets/data/effects/Stars.png
+SHA1-Digest: iHE3xT7mrEGXnbhgYiLdGD6h4EQ=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_hell_4.854.jpg
+SHA1-Digest: 6NLhQtjv5KU5hp2p3TPjoa7BnFs=
+
+Name: assets/data/sounds/b_z_plasma.mp3
+SHA1-Digest: HG2MfVrPRfJfW1bEYEqwo5DhR6o=
+
+Name: res/drawable/popupshape.xml
+SHA1-Digest: It+dxXYNKWh1XMK1nEtM6h7CfmU=
+
+Name: assets/data/downloaded/entireMogas/sphere.png
+SHA1-Digest: BjRhLp4B01+mt0ktyzKBo/d/edA=
+
+Name: assets/data/downloaded/entireMogas/trollface.png
+SHA1-Digest: 02GtSLXEDwUOUjzB6MRtKnRSnk8=
+
+Name: assets/data/downloaded/portraitMogas/p_buninja.png
+SHA1-Digest: ccPaJDQ8ObZR58QEM7hp/pwPC+w=
+
+Name: assets/data/sounds/b_p_kick.mp3
+SHA1-Digest: 4ByN3ehEeGis2AwylkLeVPwFwP4=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: iOStuV0FkVg+i4q0K4nLG+iAJ1g=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_verdura_1.854.j
+ pg
+SHA1-Digest: sczihMk1cy6iuJDDgJ4TmZgPGBM=
+
+Name: assets/data/downloaded/island/maps/bloodsport_map.854.jpg
+SHA1-Digest: 0hBkhU+ZgQx7d7oRFBOxqr6Qib4=
+
+Name: assets/data/downloaded/portraitMogas/p_burger.png
+SHA1-Digest: s1H9GThYYPqlCeJDegs6fMAw2jU=
+
+Name: assets/data/downloaded/portraitMogas/p_orichi.png
+SHA1-Digest: VyWMrcfMDPBJYy8uXNVwHPQ2lHk=
+
+Name: assets/data/downloaded/entireMogas/lungs.png
+SHA1-Digest: cWtGWLSyB48pJd44YhV4eI7miFY=
+
+Name: assets/data/sounds/ui_tap.mp3
+SHA1-Digest: ZX3x8GguGX27qBTypr6TZpoZrJg=
+
+Name: assets/data/sounds/ui_shop_moga_cash.mp3
+SHA1-Digest: Q9SoVTX39P0K6THX2wNZeL4UDT8=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_portalout_2.jpg
+SHA1-Digest: u4RusIkStk4+cBCVHGM/FQQIi6k=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_misfit_toys_3.j
+ pg
+SHA1-Digest: JvngvHP3IcAy7u+Y4L/svuVemhY=
+
+Name: assets/data/downloaded/portraitMogas/p_pwee.png
+SHA1-Digest: 1kBLQWsnyPD5ATQPv3nlo/+0ir0=
+
+Name: assets/data/downloaded/portraitMogas/p_meka.png
+SHA1-Digest: KPge5WW8d/F1X7JfwU7aoVjk6nY=
+
+Name: assets/data/sounds/b_z_tap.mp3
+SHA1-Digest: cvYFwX3Ytx1WuH4QOuOohpWU35c=
+
+Name: assets/data/hvga/attack1.png
+SHA1-Digest: 7p7NNPEn7dGBrGpNZbuBJSZmwHg=
+
+Name: lib/armeabi/libgdx.so
+SHA1-Digest: dAtanWRW771M/IDkxpvoIljIDgo=
+
+Name: assets/data/pulse.png
+SHA1-Digest: IfLqetBztIf8DaeXfmDVGEMfXWg=
+
+Name: assets/data/downloaded/portraitMogas/p_paul.png
+SHA1-Digest: ib0v9ooZHG7gi1TGKNHQNaoXd4s=
+
+Name: assets/data/downloaded/entireMogas/serpac.png
+SHA1-Digest: TE57G0FmZ7OBiboq5Y0P2XrIwlQ=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_gateway_3.jpg
+SHA1-Digest: 25BCTnu2bpIW2JrSJ9iQ+s549pI=
+
+Name: assets/data/downloaded/portraitMogas/p_golden_rainburn.png
+SHA1-Digest: LGzCsRp/9C9tlCTMIHjBzKvjKGg=
+
+Name: assets/data/hvga/world1.png
+SHA1-Digest: a4ffrxa/T/VJiRDz3yp6x8JAOpM=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_boneyard_3.jpg
+SHA1-Digest: VY2eR1fAMw1lfZOqK0s1rkpqxqs=
+
+Name: assets/data/effects/Ring.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_home_3.854.jpg
+SHA1-Digest: aAVTtV5n89tjcgA/t0U5g4/ElxA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_haterdome_2.854
+ .jpg
+SHA1-Digest: BhmdajLYrMORZJGX/kjuKRIf3Kc=
+
+Name: assets/data/world.map.no.islands.2.png
+SHA1-Digest: 4XtytJUa214GrUiE5MvdgqziZHA=
+
+Name: assets/data/hvga/trainer1.png
+SHA1-Digest: XMnIY0ZDijPANZbn9NAsRnRS+J8=
+
+Name: assets/data/downloaded/entireMogas/war_lepus.png
+SHA1-Digest: fOcc1DUnWuu3rVus9snMBjB19HQ=
+
+Name: com/badlogic/gdx/utils/arial-15.fnt
+SHA1-Digest: 10i6ZSDDgFH5+31oHlw8PocPM40=
+
+Name: assets/data/effects/RunAway.png
+SHA1-Digest: bwTWE5fguCapUXsToPhs/LVYDjA=
+
+Name: assets/data/downloaded/entireMogas/nian.png
+SHA1-Digest: fCq5wRoeETVHaGKelBIXYxrJBI4=
+
+Name: assets/data/downloaded/portraitMogas/p_allegro.png
+SHA1-Digest: Y5wb8UeMmlcOqix7v8sGXmpKqM8=
+
+Name: assets/data/hvga/npcs5.png
+SHA1-Digest: 87aZUHlyXEGbxoSiWhzEfo5ji5g=
+
+Name: assets/data/sounds/m_world.mp3
+SHA1-Digest: IN7MJmkXW7JlLdkMsgRSY4Ls6NA=
+
+Name: assets/data/hvga/blurmogas10.png
+SHA1-Digest: X13y/LiWrxjgCtfV6kf6EOfx7gE=
+
+Name: assets/data/downloaded/entireMogas/seraph.png
+SHA1-Digest: TES6LNoA+DzwBb+gVOodY+WfQPM=
+
+Name: assets/data/sounds/b_moga_entrance.mp3
+SHA1-Digest: SEIEb4H0IkFDTKu5wBs3nX9Zsms=
+
+Name: assets/data/downloaded/portraitMogas/p_nebugon.png
+SHA1-Digest: cr37xi7uSxhY77wRYX7/8VloORk=
+
+Name: assets/data/hvga/tutorial1.png
+SHA1-Digest: /sqHRR+AuShuPSUbHnrXx6SGyBw=
+
+Name: assets/data/downloaded/entireMogas/peepee.png
+SHA1-Digest: a4qQXa+YVi9zYpTdoctzLLJfBRI=
+
+Name: assets/data/downloaded/portraitMogas/p_wombat.png
+SHA1-Digest: u4quPTPFIeiEQEBGZjzUvPfrcEI=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_farmland_4.jpg
+SHA1-Digest: 6ie9xWPwlusZii41/6CwKn0hhTI=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_boneyard_3.854.
+ jpg
+SHA1-Digest: orgcbebgeo6x5K7abBiKdyAZziQ=
+
+Name: assets/data/downloaded/portraitMogas/p_heartbreaker.png
+SHA1-Digest: AbluwblycUtRHSy5cmxsUWCfevU=
+
+Name: assets/data/downloaded/portraitMogas/p_marionkitte.png
+SHA1-Digest: csoU0C+13eNogST8BjvkBiP7T7Y=
+
+Name: assets/data/downloaded/entireMogas/raj.png
+SHA1-Digest: pQka3vEkQcJxOm4uRf+5xYgjOWY=
+
+Name: assets/data/hvga/npcs10.png
+SHA1-Digest: mRuCdDm+iJIXhHSdbL3BwfGroLg=
+
+Name: assets/data/downloaded/entireMogas/hellhound.png
+SHA1-Digest: 1YpwD4hbjFSxgFE8oSdCL+iu5vc=
+
+Name: assets/data/downloaded/entireMogas/olerk.png
+SHA1-Digest: +QAMTTxvhLuu3yxhtOiK6Cxk6Hg=
+
+Name: assets/data/downloaded/entireMogas/shen.png
+SHA1-Digest: aH2pOGkmI6N1E7ewTO7JcDEfCvE=
+
+Name: assets/data/downloaded/portraitMogas/p_bushidon.png
+SHA1-Digest: P1OtWot05moklVGppcz52J/s/oI=
+
+Name: assets/data/downloaded/island/maps/boneyard_map.854.jpg
+SHA1-Digest: XLcwM9hdJhRbIN2iu9OB1AChnVc=
+
+Name: assets/data/downloaded/entireMogas/archaeon.png
+SHA1-Digest: po7LumkVRAlZIrjjeznrIL1GvBA=
+
+Name: assets/data/downloaded/portraitMogas/p_stareaver.png
+SHA1-Digest: uymmQ7yQeEoAJJIMT2pn6VizkcQ=
+
+Name: assets/data/hvga/slotmachine2.png
+SHA1-Digest: N1cS48hyNMcp0G1VBnoprrZDX94=
+
+Name: assets/data/downloaded/entireMogas/sheriff.png
+SHA1-Digest: vTb+vRdFoiN2N48q891+ww+WGYw=
+
+Name: assets/data/downloaded/entireMogas/shark.png
+SHA1-Digest: n7rMbVY9cCty5dePVnoiePJe1PY=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: Ji21yqcrX++Llce/GFMIQtaoQW4=
+
+Name: assets/data/downloaded/entireMogas/powerbear.png
+SHA1-Digest: /HHGqW3VMQordSY5VVCm1fIJuxM=
+
+Name: assets/data/hvga/zodiacattack2.png
+SHA1-Digest: wnITZHBlX/VF7aPy3a1DskFm7Zk=
+
+Name: assets/data/downloaded/entireMogas/burger.png
+SHA1-Digest: sdDLJvA4VLM4uMknaogKIy90m8Y=
+
+Name: assets/data/downloaded/portraitMogas/p_sherman.png
+SHA1-Digest: 9CP0SG0bS3foB1Um/E9KC4Kdptk=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_infoplane_3.854
+ .jpg
+SHA1-Digest: igMBjIpB8YqUmTwUD/2LYwEI5R0=
+
+Name: assets/data/downloaded/entireMogas/mechbunny.png
+SHA1-Digest: dwIgpoqyqRNtnjNbHErJXZ6+ZxY=
+
+Name: assets/data/downloaded/entireMogas/cappricino.png
+SHA1-Digest: KGa6l6bYXRDEtBcHaB6fe3rxJwo=
+
+Name: assets/data/timer.full.png
+SHA1-Digest: kv/bJLwazhot7Fj6SO/b0Vmi9lU=
+
+Name: assets/data/hvga/zodiacattack4.png
+SHA1-Digest: TPbIPo1TgbLf3ELFqPLp3hDI/0s=
+
+Name: assets/data/hvga/thumbnail2.png
+SHA1-Digest: lGRM/d9q9o120/O/iJ+xmczB+V8=
+
+Name: assets/data/downloaded/portraitMogas/p_swirlicorn.png
+SHA1-Digest: MhYpjDcDclJreCYd3v2msa3QwqQ=
+
+Name: assets/data/downloaded/portraitMogas/p_gryph.png
+SHA1-Digest: G0WotBzJgy5HGbru3pJLCU/4DjA=
+
+Name: assets/data/downloaded/entireMogas/warden.png
+SHA1-Digest: uYrtJ1VZrBJy3zfvW8/z7PmGxlk=
+
+Name: assets/data/downloaded/portraitMogas/p_tigon.png
+SHA1-Digest: F83zIGF0IggZnRgDrjgbMwzBHhM=
+
+Name: assets/data/sounds/b_z_solarrays.mp3
+SHA1-Digest: sSmWu+X+IfjZardzUXsiEC3QMmU=
+
+Name: assets/data/sounds/b_boss_fight_intro.mp3
+SHA1-Digest: ZELieBiJgYHnj9QRhesT9S1dQr4=
+
+Name: assets/data/effects/MoveEffects/aries2.png
+SHA1-Digest: 5XI7NoXki++6NA087h8AB88ZAbk=
+
+Name: assets/data/downloaded/entireMogas/cherubis.png
+SHA1-Digest: ALs78wIBSgo9iB0Q50S8yLhtZQg=
+
+Name: assets/data/downloaded/entireMogas/mudslide.png
+SHA1-Digest: 7P1jsaToKdSNb7x9e0t5ZmXxx54=
+
+Name: assets/data/downloaded/portraitMogas/p_golerph.png
+SHA1-Digest: q2kvZ37HS/envXaKKqx47evIDXI=
+
+Name: assets/data/downloaded/entireMogas/jackrose.png
+SHA1-Digest: P3XoqCRmk0RDS3fdEib1T4/t1Wo=
+
+Name: assets/data/downloaded/entireMogas/easter_bunny.png
+SHA1-Digest: HY+haSvEfuBKD0W+gwpF4/VDaWs=
+
+Name: assets/data/downloaded/island/maps/portal_map.jpg
+SHA1-Digest: rAiKSUmsU7g6cL5D3v83kVZXdkI=
+
+Name: assets/data/downloaded/portraitMogas/p_piglore.png
+SHA1-Digest: AnWRlElzoBUaogNXwqYRcMsuXBw=
+
+Name: assets/data/downloaded/entireMogas/knives.png
+SHA1-Digest: 86avYqZSIrhRj4OFs//cCPuDgX8=
+
+Name: assets/data/sounds/b_p_super_tackle_hit.mp3
+SHA1-Digest: FK6sg8AkLKShIL8fUZ4bxbjXa78=
+
+Name: assets/data/sounds/BossFight.mp3
+SHA1-Digest: Oy7nYtN4QYD13RkpA+YJ5kS+1t8=
+
+Name: assets/data/downloaded/portraitMogas/p_devilbait.png
+SHA1-Digest: l3hPY1ykIlDF6EmY27UDDKh7f8E=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_home_4.854.jpg
+SHA1-Digest: JJlQRG0a+K0BQU6wFvReEVFmd7o=
+
+Name: assets/data/downloaded/entireMogas/meka.png
+SHA1-Digest: QDsaOoovuhky5tkZhLEhZ37k/84=
+
+Name: assets/data/downloaded/portraitMogas/p_chibi.png
+SHA1-Digest: 90ZRakiQqOMpcVongV7Um0tPPl0=
+
+Name: assets/data/downloaded/portraitMogas/p_blood_yugure.png
+SHA1-Digest: DQntAaaAbPPvomz9JjaItJRF/5Q=
+
+Name: assets/data/sounds/b_seed_capture_fail.mp3
+SHA1-Digest: ka+V2d22XcRLWRGsmNeswG31uHk=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_boneyard_4.jpg
+SHA1-Digest: elnXNS8ADsROReD0MxD/3jxVZf4=
+
+Name: res/drawable-ldpi/ic_stat_starseed.png
+SHA1-Digest: UMOiPEFEPFOGmKT2+/587YC2Kik=
+
+Name: assets/data/splash.png
+SHA1-Digest: +VuLuCahpfM3y6yd8PJAPdBveYw=
+
+Name: assets/data/effects/MoveEffects/aquarius1.png
+SHA1-Digest: f8CVEmaIoOkVpZHlo3W+5Ez0G/o=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_home_1.jpg
+SHA1-Digest: XQYTYA0JKThjuFhEL9jiLIu3c50=
+
+Name: lib/armeabi/libandroidgl20.so
+SHA1-Digest: T3Re9lHBRQ177kCvIUyqP94xG6k=
+
+Name: assets/data/downloaded/portraitMogas/p_parroot.png
+SHA1-Digest: arwgw8wtbHTt+Kqnt6FR74K9Tjw=
+
+Name: assets/data/downloaded/portraitMogas/p_gnarknight.png
+SHA1-Digest: 0OY4l4IO0eua1qvAyUygMQsoSFY=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_gateway_2.jpg
+SHA1-Digest: z48vF9pl5djFinyojf+T1vhtTxg=
+
+Name: assets/data/downloaded/entireMogas/volpeo.png
+SHA1-Digest: c0emidcVtDmeeErvN/RVlh9C88k=
+
+Name: assets/data/hvga/tutorial2.png
+SHA1-Digest: 6JSukdN/4gAV1zRSUjCvxqXL6ic=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_bloodsport_2.85
+ 4.jpg
+SHA1-Digest: IRD8KjfQF0wJBBMUWoWYLhYabDU=
+
+Name: assets/data/downloaded/portraitMogas/p_blackfang.png
+SHA1-Digest: L7777j/F/bfu/rogTuCy0OGAnLc=
+
+Name: res/anim/progressanimation.xml
+SHA1-Digest: PQO4FYVff7X3J5jfE4I3TbFzzAA=
+
+Name: assets/data/downloaded/island/maps/landfill_map.jpg
+SHA1-Digest: EH6Gk3cqGnX4MVqvj8QM+hy9FBk=
+
+Name: com/badlogic/gdx/utils/arial-15.png
+SHA1-Digest: 6MdqEk2aew21ahrQa/w1P8vabHw=
+
+Name: assets/data/hvga/npcs9.png
+SHA1-Digest: ckn5WUy6YnSjqLLZcRjVIxVTBKc=
+
+Name: assets/data/downloaded/portraitMogas/p_searam.png
+SHA1-Digest: eo0fptDIxBmuccQ3Q6yYAF2LWpw=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_boneyard_2.jpg
+SHA1-Digest: wZrNPXe9zVheRDg+TJM12VpioLE=
+
+Name: assets/data/downloaded/portraitMogas/p_lira.png
+SHA1-Digest: hrvRPIuSfLPdBGhGTLxkFaTFzoA=
+
+Name: assets/data/effects/zodiac_while_tapping.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/entireMogas/mono.png
+SHA1-Digest: 82KQllWN7fpOV30n0++D+liCfmM=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_haterdome_2.jpg
+SHA1-Digest: 9fU+yKzl3J+LmP+vf+ADmVd59uc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_misfit_toys_2.j
+ pg
+SHA1-Digest: d0EJixWV/8SuR78QvonR5NTgMVM=
+
+Name: assets/data/downloaded/portraitMogas/p_tyr.png
+SHA1-Digest: mfuPgNmuVMKXZ9kNuugGSiBxeiM=
+
+Name: assets/data/downloaded/entireMogas/femtenpac.png
+SHA1-Digest: 52T3EIfnwYBWCnwQhbZdFztEqHE=
+
+Name: assets/data/downloaded/portraitMogas/p_femtenpac.png
+SHA1-Digest: fT//2IF72k4fWd6707DOJQ4ekqY=
+
+Name: assets/data/effects/MoveEffects/hit4.png
+SHA1-Digest: ljKoy5mNCeKp/Ny/JiKsdoWcm+U=
+
+Name: assets/data/downloaded/entireMogas/golden_rainburn.png
+SHA1-Digest: Kf4DexfmI6mjK++RQhUXfGlC6Gc=
+
+Name: assets/data/downloaded/entireMogas/deelish.png
+SHA1-Digest: Cpr3v2NLFTB18J+wOGam7akBXlg=
+
+Name: assets/data/hvga/startup2.png
+SHA1-Digest: I66mB8zc3QrVcRxgm9v+cWZC5gM=
+
+Name: assets/data/downloaded/portraitMogas/p_eagle.png
+SHA1-Digest: UE2zFYcD0sLeUqhl022aZsVs3As=
+
+Name: assets/data/effects/BlueCoffee4.png
+SHA1-Digest: iHE3xT7mrEGXnbhgYiLdGD6h4EQ=
+
+Name: assets/data/downloaded/island/maps/home_map.jpg
+SHA1-Digest: +CBqSLR9VktZ4DoCV0i4cADuMJM=
+
+Name: assets/data/downloaded/entireMogas/carnage.png
+SHA1-Digest: nUQlASNqGJIplQAUqM+rWZqkZNM=
+
+Name: assets/data/effects/MoveEffects1.png
+SHA1-Digest: QQxh5cjEcYMSuzCJ0yOz52Pz0sk=
+
+Name: assets/data/hvga/blurmogas16.png
+SHA1-Digest: 5GpOmqsVKS5i4+wXG+kfAmCJ6kM=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_2.854.jp
+ g
+SHA1-Digest: rzaJbVPH+9SkDs6YLaNrDAns2oQ=
+
+Name: assets/data/fonts/VAGRunds.fnt
+SHA1-Digest: /44o1j/mKbIASEtPvGE3WtqIsoI=
+
+Name: assets/data/sounds/b_p_super_punch.mp3
+SHA1-Digest: P2/vxAU2S7HjIIq2H7SstguZKTw=
+
+Name: assets/data/hvga/blurmogas15.png
+SHA1-Digest: ArOFilbh3YEBnrxlzdaUb+HbONo=
+
+Name: assets/data/downloaded/entireMogas/mushie.png
+SHA1-Digest: ZreGKJv60rD/eNAR3O9Ue6HTX2k=
+
+Name: assets/data/downloaded/portraitMogas/p_brazen.png
+SHA1-Digest: /Ife6iHt8NZ4B0oofSpL6Kf506U=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_hell_2.854.jpg
+SHA1-Digest: 7FPGdbU9VoRxiQVPuO6r2PnKS1I=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_1.854.jp
+ g
+SHA1-Digest: G4N1aupZhybmUSUm1zPFQuavRaQ=
+
+Name: assets/data/hvga/thumbnail4.png
+SHA1-Digest: Il3yKnQuNrju1RJXdyqUsfa04qA=
+
+Name: assets/data/downloaded/portraitMogas/p_bureti.png
+SHA1-Digest: 6TVTfQGMzS6pTufZ6oQsbFHeMnU=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_home_2.jpg
+SHA1-Digest: PI0Ihc7Uml9XjwaSlzXW9tQY+cs=
+
+Name: assets/data/downloaded/portraitMogas/p_gondula.png
+SHA1-Digest: 6q3SjGudZxtLk7pRYrx9lm1D+7o=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_verdura_4.854.j
+ pg
+SHA1-Digest: fr47WQyheux86g3hEhwfmrjeRI8=
+
+Name: assets/data/downloaded/portraitMogas/p_anini.png
+SHA1-Digest: JaZKdWR5TjGhm+VfabCbCdpB11g=
+
+Name: assets/data/downloaded/entireMogas/brineep.png
+SHA1-Digest: uN3Igrq0WtSmPhrW2GeLnpf/SWg=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_verdura_1.jpg
+SHA1-Digest: 4sfJTn3OnU6FfwVYJWGecfvzWv0=
+
+Name: assets/data/sounds/ScreenChange.mp3
+SHA1-Digest: vHTncNInniEYhhN+BNg7geI7FXM=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_bloodsport_3.jp
+ g
+SHA1-Digest: /CZRAmdtXi2oAl4qr4Pc1VkI+dE=
+
+Name: assets/data/sounds/BattleMusic01.mp3
+SHA1-Digest: pItlIY8uTDiVyz2dgc0KtaZEKxI=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_boneyard_1.854.
+ jpg
+SHA1-Digest: Rcw8yorJpcu899414dlo5NLORHE=
+
+Name: assets/data/downloaded/island/maps/infoplane_map.jpg
+SHA1-Digest: hfaJRVuSuhzVFYiLmIDtFK/NeMo=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_home_4.jpg
+SHA1-Digest: EyiZHYXIJ4USde1SmaJvPbmU1Uo=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_5.854.jp
+ g
+SHA1-Digest: Qb4g7d8GJRFWPmJNwahXvXmOLdc=
+
+Name: assets/data/hvga/npcs3.png
+SHA1-Digest: iGPyaac/KBs3DtYcLwUCGNbznX4=
+
+Name: assets/data/downloaded/entireMogas/yoake.png
+SHA1-Digest: FqEXgUAKz9jLwcELDuH8qU5APVQ=
+
+Name: res/drawable-ldpi/close.png
+SHA1-Digest: lg0izCnB1flsd2QqLisbxkcuGyU=
+
+Name: assets/data/downloaded/portraitMogas/p_plasmian.png
+SHA1-Digest: 2C5JPRT9RuQ1p++sc6HQTrKLUeo=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_farmland_3.854.
+ jpg
+SHA1-Digest: 62+xqlds4ygMSVhpWsAq2NNhr3Y=
+
+Name: assets/data/sounds/b_p_headbutt.mp3
+SHA1-Digest: k9mdcla3b0dSbx+aS8FTpJh+8mM=
+
+Name: assets/data/downloaded/entireMogas/korozinu.png
+SHA1-Digest: WzwathKjHVoXeA+SpVo+rsJqxnY=
+
+Name: res/values/attrs.xml
+SHA1-Digest: r6lf1/wfhDw7IxLA4ineZV/BGRA=
+
+Name: assets/data/downloaded/entireMogas/mercykiller.png
+SHA1-Digest: 6H/NcpCmSo3jSQQHGCRHg3kmaVw=
+
+Name: assets/data/hvga/npcs1.png
+SHA1-Digest: +FW6TXQwHvAWnMyGcMiDM7Ol/fM=
+
+Name: assets/data/downloaded/portraitMogas/p_deelish.png
+SHA1-Digest: waWLS7dc0xWjFP8uNX2kMgOIYHQ=
+
+Name: assets/data/downloaded/entireMogas/ibex.png
+SHA1-Digest: NKgj5XjgxH1XwaXtXZl4EnGAyvU=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_bloodsport_4.85
+ 4.jpg
+SHA1-Digest: QFmc/4tlbgVN0tRmIhLMU1fHjFc=
+
+Name: assets/data/downloaded/entireMogas/clovey.png
+SHA1-Digest: wlRwQ+87lgSl9EKsbJLOJvblDYI=
+
+Name: res/drawable/logo.png
+SHA1-Digest: ny4jb3XNhs0JpB+j0E/dmW1Nfwo=
+
+Name: res/drawable-xhdpi-v9/ic_stat_starseed.png
+SHA1-Digest: doaaOM98QDqu/IBeqHhoX6h9ZRo=
+
+Name: assets/data/hvga/startup3.png
+SHA1-Digest: Ehv8cUbizvkfP3xn0JbFuWO6Uqg=
+
+Name: assets/data/downloaded/portraitMogas/p_snake.png
+SHA1-Digest: EXwkonaqIKqo4kXvcoAOc4c4sSM=
+
+Name: assets/data/downloaded/entireMogas/anini.png
+SHA1-Digest: HbVo3oIlsIWMhBNX93sufltrM9s=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_5.jpg
+SHA1-Digest: oF7/EdJ87gMG09BuwEmlC6crBKg=
+
+Name: assets/data/downloaded/portraitMogas/p_archaeon.png
+SHA1-Digest: 9D33I3ZDF3M8gPLANGVegKYC5nE=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: U4CXvTX2z+3VFg3RfgoEaMRPOYM=
+
+Name: assets/data/white.circle.png
+SHA1-Digest: ZYMsuncPcL2KhZf9VYC+4QNlIKM=
+
+Name: assets/data/sounds/b_p_headbutt_hit.mp3
+SHA1-Digest: HjA3Q8vBOZ+KWOZoUBEtbZSXVbU=
+
+Name: assets/data/hvga/world8.png
+SHA1-Digest: SY0/ivA0GOXjMvgVtRM3Lb0lyXQ=
+
+Name: assets/data/downloaded/entireMogas/centurion.png
+SHA1-Digest: P6MQLeNkMOmUO5q5lIED4NOZ3oU=
+
+Name: assets/data/hvga/npcs13.png
+SHA1-Digest: opUUFCHYIJhrOtJZKCL5bPgMEms=
+
+Name: assets/fonts/VAGRundschriftD.ttf
+SHA1-Digest: bTRAoF+0ZKqy+JiDvssYfWViQyg=
+
+Name: assets/data/fonts/fonts1.png
+SHA1-Digest: Piw87LIZ91pb2NB8k5I5/mVu77c=
+
+Name: assets/data/hvga/blurmogas7.png
+SHA1-Digest: h8Bd7pusKEjWc1++XkSGaPRdEhk=
+
+Name: assets/data/downloaded/portraitMogas/p_starmantle.png
+SHA1-Digest: iqodvyEUls9bA6HCcWtAduc0+jM=
+
+Name: assets/data/downloaded/entireMogas/pwee.png
+SHA1-Digest: lgt5r6Q1YSt+lplj8Jg3/5LCxmw=
+
+Name: assets/data/downloaded/portraitMogas/p_hellhound.png
+SHA1-Digest: 8peFwUqPI387BoF7x17vEsi5cBg=
+
+Name: assets/data/downloaded/island/maps/hell_map.854.jpg
+SHA1-Digest: JpkWEET9jGf/cMDBw8EWbCpNjrg=
+
+Name: assets/data/effects/BlueStars.png
+SHA1-Digest: n7HyGo6XVi4K+FwUgaplj30K7ys=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_misfit_toys_4.8
+ 54.jpg
+SHA1-Digest: r0t9lsddm/BsJWkdPbp3CTJGHYY=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_portalout_4.jpg
+SHA1-Digest: B7dpccEi6nEv+hOXybE+PgQ6X+Q=
+
+Name: assets/data/sounds/b_z_poison.mp3
+SHA1-Digest: WUJU4VKjntLV+6kr7nXiEyBhdlw=
+
+Name: assets/data/hvga/team1.png
+SHA1-Digest: 1AdN0TVGcJ/dKIV+akDqr57Eeqs=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_farmland_1.854.
+ jpg
+SHA1-Digest: g90kepr5HarHNcrtlh0Hq83+zNw=
+
+Name: assets/data/downloaded/entireMogas/starmantle.png
+SHA1-Digest: W05E/spiyb4o0rS3vtt5OA6mrTA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_gateway_1.jpg
+SHA1-Digest: Vee4vfKAPVg5bVcPTXyrOWjxEzU=
+
+Name: assets/data/sounds/BattleMusic05.mp3
+SHA1-Digest: VRZOB4PMgsG9nl2wMrgEA/FgukI=
+
+Name: assets/data/downloaded/portraitMogas/p_olerk.png
+SHA1-Digest: ZKBco2zx+yFSbHsvFg21tpuyMnM=
+
+Name: assets/data/downloaded/island/maps/bloodsport_map.jpg
+SHA1-Digest: +OCCg8dEMt8WXsjUzXnWCiWJdwQ=
+
+Name: assets/data/hvga/blurmogas1.png
+SHA1-Digest: 8Oh+QL+0mvVS938wZSISWz68Fjk=
+
+Name: assets/data/downloaded/island/maps/home_map.854.jpg
+SHA1-Digest: Fb0Ub1FK0DsfXn3hkn28c0/LvQc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_portalout_4.854
+ .jpg
+SHA1-Digest: RbXipHt+sSjYZD/S88H24pUV3lU=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_1.jpg
+SHA1-Digest: 3ISRasnsDK/Kn0ShIZKE88/GiJk=
+
+Name: assets/data/downloaded/portraitMogas/p_trollface.png
+SHA1-Digest: uE7ZEN+ck/vpOEqO9fV3XMi9vCg=
+
+Name: assets/data/downloaded/entireMogas/warplet.png
+SHA1-Digest: gANdYvrH9xXu7F9vNZtlptCDHWY=
+
+Name: assets/data/downloaded/portraitMogas/p_hanzo.png
+SHA1-Digest: u2CqWRFhtIpDHbUYrf/VcRPc5pY=
+
+Name: assets/data/downloaded/portraitMogas/p_ravenous.png
+SHA1-Digest: icVzZst3/g1gp/4N9W/dbujnySA=
+
+Name: assets/data/downloaded/portraitMogas/p_shaka.png
+SHA1-Digest: t8nhANqGrGElmLldrynueX1HP10=
+
+Name: assets/data/downloaded/entireMogas/hanzo.png
+SHA1-Digest: FIufl57Jt5cd9ibXHRWY945p0lc=
+
+Name: assets/data/downloaded/island/maps/wyckid_game_map.854.jpg
+SHA1-Digest: W81pQrl8zXds99jVNYtPpTOs3qg=
+
+Name: res/drawable-xhdpi-v11/ic_stat_starseed.png
+SHA1-Digest: +EzwMd7NohU6CaNV00fjVm9dp/8=
+
+Name: assets/data/downloaded/entireMogas/chibi.png
+SHA1-Digest: kfzDqBtAyXScoh9pPLPiECLKl2k=
+
+Name: assets/data/downloaded/portraitMogas/p_lungs.png
+SHA1-Digest: bx/Dg21jLOLbdVlC3/gvtY5TSAA=
+
+Name: res/drawable-hdpi-v9/ic_stat_starseed.png
+SHA1-Digest: WjqB+Ho7c+no1zjWYFnGrNkfmyg=
+
+Name: assets/fonts/VAGRundsRegular.ttf
+SHA1-Digest: T0ikiRBjbvq6MIp3WhF5RF4lZbQ=
+
+Name: assets/data/downloaded/portraitMogas/p_wretch.png
+SHA1-Digest: 7KF1pNMaqNAYj9Vl9H9qzyK+Jcg=
+
+Name: assets/data/downloaded/portraitMogas/p_cherubis.png
+SHA1-Digest: by2jew4zf8T2DKiwXh5n4y0Ztsg=
+
+Name: assets/data/downloaded/portraitMogas/p_cappricino.png
+SHA1-Digest: gcYXohhd9riMG0eKBuI+WQbwejY=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_farmland_2.854.
+ jpg
+SHA1-Digest: 4/Bb41JhM8a+NaQv3NN6yKUpjMc=
+
+Name: assets/data/hvga/blurmogas3.png
+SHA1-Digest: zghGHJw6ydPoVwSopMiTT+gm54E=
+
+Name: assets/data/downloaded/entireMogas/lira.png
+SHA1-Digest: 6zKL77V22/kA1RJM1qX7ccalTOs=
+
+Name: res/drawable-xhdpi/ic_stat_starseed.png
+SHA1-Digest: hYt+DEWuPhscSiAkH3NOFh7YR80=
+
+Name: assets/data/sounds/b_p_super_tackle.mp3
+SHA1-Digest: alPebCcPbHxNIbv4BHhZyo5qqzU=
+
+Name: assets/data/hvga/rarity1.png
+SHA1-Digest: xPzo6SfMJI6qoAR4gGgjK0frbZs=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_infoplane_4.854
+ .jpg
+SHA1-Digest: 7KcDxrBTVEvhcmReZsHXTPcDZZw=
+
+Name: assets/data/downloaded/portraitMogas/p_juggernaut.png
+SHA1-Digest: wCaS+w5UwrmzT5J9E+cJAOvkdbM=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_landfill_3.jpg
+SHA1-Digest: oBszSL+ePkaPO9e9FlM3bIymsuY=
+
+Name: assets/data/downloaded/portraitMogas/p_kebaba.png
+SHA1-Digest: 6h6K6ucGyQSshsS9u2SVcB1AGaw=
+
+Name: assets/data/effects/effects1.png
+SHA1-Digest: ZvEF0FSZvJn3f4kUFzFMovxnd0k=
+
+Name: assets/data/hvga/blurmogas9.png
+SHA1-Digest: e5Vnksn6X6VT+ZMWX+YTmeXNXvo=
+
+Name: assets/data/downloaded/island/maps/farmland_map.jpg
+SHA1-Digest: YTEn9P+knz/BkX31ZrIQEcKk0K8=
+
+Name: assets/data/downloaded/portraitMogas/p_lepus.png
+SHA1-Digest: j9faUSDRV/jWitDoi5gm7uyXwPY=
+
+Name: assets/data/hvga/menu1.png
+SHA1-Digest: gQxFeunqvb5ZxcOUNQn2YzclDGA=
+
+Name: res/layout/settings.xml
+SHA1-Digest: 791EsoMsI4q8zV4xaDi7MIScuOs=
+
+Name: assets/data/effects/BlueCoffee3.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/capture.100percent.png
+SHA1-Digest: z3mpjA80Y2D0LY/efuoMXlodJI4=
+
+Name: assets/data/sounds/ui_coffee.mp3
+SHA1-Digest: 7bPkKzDa1IrOUlyO9W6U7a7QT3E=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_bloodsport_3.85
+ 4.jpg
+SHA1-Digest: Ssx59bwjAX3cjvYz5qcyR6cAYxY=
+
+Name: assets/data/downloaded/portraitMogas/p_hotdog.png
+SHA1-Digest: tASNv+AjpMBTONAHlw7S9vVZm+I=
+
+Name: assets/data/downloaded/portraitMogas/p_sandburrow.png
+SHA1-Digest: uxbbX41lH8t1nmMwR93SdKUIgaw=
+
+Name: assets/data/hvga/team3.png
+SHA1-Digest: OCNuSkPuu+1ao9248Pf/9VSJMKc=
+
+Name: assets/data/effects/MoveEffects/sagittarius.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/entireMogas/wastrel.png
+SHA1-Digest: 9bUGrDvJLw9GONEfOZA1HKmcqDA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_gateway_4.854.j
+ pg
+SHA1-Digest: BUUZWGdFvhDzXrBrxVI1eBzk5wI=
+
+Name: assets/data/downloaded/portraitMogas/p_kysebok.png
+SHA1-Digest: I0fSfPP5R/yG4CPQZLvS18wd8mY=
+
+Name: assets/data/hvga/blurmogas6.png
+SHA1-Digest: 7e5Oc4VXHYvQsYWNFW3v2QuYXRo=
+
+Name: assets/data/sounds/b_z_fireball.mp3
+SHA1-Digest: pVCYMNgXLwCzy/FE/9vWRlNiGFE=
+
+Name: assets/data/downloaded/entireMogas/bandito.png
+SHA1-Digest: iSTiwtQB29PH5kB+QRIyDJ9OXqI=
+
+Name: assets/data/downloaded/entireMogas/chidi.png
+SHA1-Digest: vMb8JnTWL3cKc288RBTv9L52AdE=
+
+Name: assets/data/downloaded/portraitMogas/p_ibex.png
+SHA1-Digest: Wh5czKhpXB1yiZt4V0tR5PBuAtI=
+
+Name: assets/data/downloaded/portraitMogas/p_powerbear.png
+SHA1-Digest: EmJLmFJOKKwftGpphc8ZdHvmSF4=
+
+Name: assets/data/downloaded/portraitMogas/p_alyx.png
+SHA1-Digest: NVE0pyJfSQlhIKgARdW9IjbHwoM=
+
+Name: assets/data/downloaded/portraitMogas/p_shen.png
+SHA1-Digest: FnXTj6Cj6oD2PGDgx/xiNRupKYw=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_3.jpg
+SHA1-Digest: 2VGsz8XrE4SBDxOVMDzrmlqS0gs=
+
+Name: assets/data/effects/IslandUnlockedParticles.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/entireMogas/chezvice.png
+SHA1-Digest: F7jEP183iqKfmMN3ErfJtgZ3VPU=
+
+Name: assets/data/downloaded/entireMogas/reaper.png
+SHA1-Digest: DuzFLAtZuxpm43LXcSQwsR377M4=
+
+Name: assets/data/downloaded/entireMogas/kebaba.png
+SHA1-Digest: HhXMPO4HV0+wKaHB7nZGNu7Ugj0=
+
+Name: assets/data/downloaded/entireMogas/devilbait.png
+SHA1-Digest: dNAqwY+M9c6HFlDZBow55dtI3f4=
+
+Name: assets/data/downloaded/portraitMogas/p_eclipse.png
+SHA1-Digest: GCQL8t+gINIhUaxCWv/OusR4llI=
+
+Name: assets/data/downloaded/portraitMogas/p_gremlin.png
+SHA1-Digest: GzFhRa+FaRA3VGuhFwFtLdh+DqI=
+
+Name: assets/data/downloaded/entireMogas/shaka.png
+SHA1-Digest: FG24V/JwNxY27SFVcjtt1Exkc2A=
+
+Name: assets/data/downloaded/entireMogas/reptile.png
+SHA1-Digest: A6Hd3tjWHXuDTOAGuZY7VLSIfEI=
+
+Name: assets/data/downloaded/entireMogas/seidh.png
+SHA1-Digest: f6uqP+AgDVOrJQAFDcYqwFn8woM=
+
+Name: assets/data/downloaded/portraitMogas/p_knives.png
+SHA1-Digest: rlA2oKBM25YhKFl2IKMO02hwMgE=
+
+Name: res/drawable-ldpi/facebook_icon.png
+SHA1-Digest: lPHIYoqZ+2OpY0LPumyDkUdNdoc=
+
+Name: assets/data/effects/MoveEffects/aries1.png
+SHA1-Digest: T8tWzMn6MRQcnGL6lBQYlPtD2go=
+
+Name: assets/data/downloaded/portraitMogas/p_teef.png
+SHA1-Digest: wGkJL7x1zq/i1iU5f7aani/YgJE=
+
+Name: assets/data/downloaded/portraitMogas/p_niseag.png
+SHA1-Digest: vaOETaNPumno207Tw1VJNhfHfgk=
+
+Name: assets/data/effects/MoveEffects/chargeA.png
+SHA1-Digest: jT7dGa60XGghlgEgUGNXZSkhTKU=
+
+Name: assets/data/downloaded/entireMogas/hydrusa.png
+SHA1-Digest: c7ZthdgLgeaSuUzzRhnNHrD4M8I=
+
+Name: assets/data/sounds/ui_island_node_available.mp3
+SHA1-Digest: nFi1m7wFZxSAlctGRDWfLdbs8+s=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_garden_3.jpg
+SHA1-Digest: m+rKGbjcpNM8RHXswqFWX77HtMs=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_infoplane_4.jpg
+SHA1-Digest: lpDt+vdY3/gmwcEitHmbrXZ4coU=
+
+Name: assets/data/effects/RunAwayFail.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_infoplane_2.854
+ .jpg
+SHA1-Digest: IJzHKsVvmRu3+NacfEdUXmZGdCw=
+
+Name: assets/data/downloaded/portraitMogas/p_mercykiller.png
+SHA1-Digest: CdnEbR2ADof4PbbGDkf55jM/xGo=
+
+Name: assets/data/downloaded/entireMogas/bunglon.png
+SHA1-Digest: 4pWSvgSnDcNa1+UKfVlQmMWv5c0=
+
+Name: assets/data/sounds/b_run.mp3
+SHA1-Digest: aviE1xsyClawlhRftsscelMD7JI=
+
+Name: assets/data/downloaded/entireMogas/faust.png
+SHA1-Digest: JoqaET61G2VUV3Nv4cH2E/xnZ/Y=
+
+Name: assets/data/hvga/blurmogas4.png
+SHA1-Digest: 7g1+nRkeWSoqfaWYTCooweOGTwk=
+
+Name: assets/data/downloaded/entireMogas/titus.png
+SHA1-Digest: Fk3FgGsCAbD27pjAwQzgBljqJi4=
+
+Name: assets/data/downloaded/entireMogas/gremlin.png
+SHA1-Digest: mh2I+ZIvfiXrDqdvZM4k94VDU78=
+
+Name: assets/data/downloaded/entireMogas/weapie.png
+SHA1-Digest: 81RCGL3MjrApruPFlUUfG3RvyfI=
+
+Name: assets/data/downloaded/entireMogas/grimmace.png
+SHA1-Digest: zWlCQl8dv5Yn/2zpIcV/PoC1B2M=
+
+Name: assets/data/hvga/team2.png
+SHA1-Digest: 8cOWy/HLRgE6l0NcGHnI0uwOChw=
+
+Name: assets/data/hvga/pack
+SHA1-Digest: KeCle570EdLolesx8mekcgU8esE=
+
+Name: assets/data/sounds/IslandStingerStandard.mp3
+SHA1-Digest: 1odGu182wd5KFmB3a8tQ0B4PAEE=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_bloodsport_1.85
+ 4.jpg
+SHA1-Digest: XTVrOdmdsy7MkhSdzPGzqRvsvB4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_garden_2.854.jp
+ g
+SHA1-Digest: MSxGmzFYhUJH0/vOtqWjR5Rrh3s=
+
+Name: assets/data/effects/zodiac_weak.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/portraitMogas/p_ninetails.png
+SHA1-Digest: SxcggxN3Q1CQw+Dbr3Aeca7TtwY=
+
+Name: assets/data/downloaded/island/maps/portal_map.854.jpg
+SHA1-Digest: 2aHOUqS11d5xCig6OQO+GHDWJjY=
+
+Name: assets/data/downloaded/portraitMogas/p_wastrel.png
+SHA1-Digest: lj0LKS/25RZRFBktYBkxtX2GYas=
+
+Name: assets/data/sounds/b_seed_capture_success.mp3
+SHA1-Digest: epypzRYytqp3ZpJurawYxiwP0Cg=
+
+Name: res/layout/tweaks.xml
+SHA1-Digest: r68xO+7H4Jon4MvtnzS+hcfIsEg=
+
+Name: assets/data/downloaded/entireMogas/stareaver.png
+SHA1-Digest: zz692ssnxMwNBsdta7LHeXRBT1A=
+
+Name: assets/data/downloaded/portraitMogas/p_mudslide.png
+SHA1-Digest: nIz5mVEVvkFp8TqH5nD/g16ZRj8=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_portalout_3.jpg
+SHA1-Digest: 4VvsOu+Dk35RglKY1XiXBW9N7YQ=
+
+Name: assets/data/downloaded/portraitMogas/p_duovalkyr.png
+SHA1-Digest: 2+AZcNu8Wp8H6mrfNQeo0/0I9N0=
+
+Name: assets/data/world.home.locked.png
+SHA1-Digest: yGz6Lr47sJiSQayl/MlPgIbuUrE=
+
+Name: assets/data/hvga/playerhud1.png
+SHA1-Digest: 30mw0jmlaqyPTSjrjyAi47tlqdI=
+
+Name: assets/data/downloaded/entireMogas/glowbug.png
+SHA1-Digest: Gdr94AQ7fFCPvXIk47uZZJCvAE0=
+
+Name: assets/config.properties
+SHA1-Digest: IZWEWh25p+m7KD2SiTSg7QreQxs=
+
+Name: assets/data/hvga/portraitmogas1.png
+SHA1-Digest: BB2qXEam/funLvHhvZ7FlV3kkew=
+
+Name: assets/data/sounds/ui_confirm_dialogue.mp3
+SHA1-Digest: L15AwC734XfM1yLO23cW7DUcWc0=
+
+Name: assets/data/downloaded/portraitMogas/p_spike.png
+SHA1-Digest: 6q5EmSiFwWXzcN9SBn6teI7gxLM=
+
+Name: assets/data/downloaded/entireMogas/snake.png
+SHA1-Digest: 1qpugIsgP8cVxSa2NGyzYFZKdP4=
+
+Name: assets/data/sounds/b_bonus_spell_finish.mp3
+SHA1-Digest: giwvIlK7DEQKmGX26zg0Bx4w2e0=
+
+Name: assets/data/sounds/b_z_dervish.mp3
+SHA1-Digest: IEVXaXsLhyYIEPdGHMvOP3FumNA=
+
+Name: assets/data/downloaded/portraitMogas/p_umbranine.png
+SHA1-Digest: jFJMpVH4fTA8BUg1N9dOzzzwyqM=
+
+Name: assets/data/downloaded/entireMogas/lumo.png
+SHA1-Digest: JOIPrZ49F3tjMFhH4imyZ+PIuvc=
+
+Name: assets/data/downloaded/entireMogas/saphirz.png
+SHA1-Digest: Stb2BrNCHi66F2o0DOUQ3y/6ljs=
+
+Name: assets/data/hvga/thumbnail1.png
+SHA1-Digest: EXG76HzkjO78ls1ZthtsnQYhWX4=
+
+Name: resources.arsc
+SHA1-Digest: gWIQxzD+M+BUEPpZpEzofek7jF0=
+
+Name: assets/data/downloaded/entireMogas/parroot.png
+SHA1-Digest: /SSmyruv0gy6WMsSfm6D0GJstII=
+
+Name: assets/data/downloaded/portraitMogas/p_mousemallow.png
+SHA1-Digest: t0isrLdeUuGJeB46emmLxaWMujs=
+
+Name: assets/data/hvga/blurmogas11.png
+SHA1-Digest: XJJOQ7jdOYff//zj9jVHybkO3vE=
+
+Name: assets/data/downloaded/entireMogas/pirate.png
+SHA1-Digest: 87HztJgkUJPb7Y2P1ZlaGuAbg3A=
+
+Name: assets/data/downloaded/portraitMogas/p_soulcleaver.png
+SHA1-Digest: CtTy/QB3kx/IfAj2o2nHwlU6Mvg=
+
+Name: assets/data/downloaded/entireMogas/vulcore.png
+SHA1-Digest: U51T/M0JqV5WnxyWLm+udrdzWz8=
+
+Name: assets/data/downloaded/portraitMogas/p_centurion.png
+SHA1-Digest: 2dZlO7w1IroB/S1RQU1ClzM0Dm4=
+
+Name: assets/data/downloaded/portraitMogas/p_vesper.png
+SHA1-Digest: MhwS4RX/AItVCB0Kf+UYdhPTE4Q=
+
+Name: assets/data/downloaded/portraitMogas/p_pox.png
+SHA1-Digest: ZZsC0LDbj7z1N44Y29IvaxgaLPg=
+
+Name: assets/data/downloaded/entireMogas/gora.png
+SHA1-Digest: R/f+1GPg5oZA8LgvYlyBgJSrmBI=
+
+Name: assets/data/downloaded/portraitMogas/p_heartache.png
+SHA1-Digest: txdXAJvOICrKieGUXrAZdEwa9iY=
+
+Name: assets/data/downloaded/entireMogas/knine.png
+SHA1-Digest: d1P7MZX7JIIGt4vTrHWxwsOl3NM=
+
+Name: assets/data/downloaded/island/maps/haterdome_map.854.jpg
+SHA1-Digest: 2dC9KjgoVal1z6rbMlaCISFJjak=
+
+Name: assets/data/downloaded/entireMogas/rhino.png
+SHA1-Digest: wTx46zAjTOb4jQK1A0zX5gTmc+Q=
+
+Name: assets/data/downloaded/portraitMogas/p_skuxette.png
+SHA1-Digest: nIHXagnjU9hmayu+ywbQ4O2JjQs=
+
+Name: assets/data/downloaded/portraitMogas/p_mushie.png
+SHA1-Digest: TvecWnKXw/CKk9j8cJ0MPP6/6aU=
+
+Name: assets/data/hvga/blurmogas12.png
+SHA1-Digest: sKu/pvP6p8cmpeNq2nt/k4Rxg0I=
+
+Name: assets/data/downloaded/portraitMogas/p_winja.png
+SHA1-Digest: fsF2sN+I2NhWCCNcSQFQuiP6d8o=
+
+Name: assets/data/effects/MoveEffects/libra.png
+SHA1-Digest: f8CVEmaIoOkVpZHlo3W+5Ez0G/o=
+
+Name: assets/data/downloaded/entireMogas/ninetails.png
+SHA1-Digest: 0iS1IlqYBRpOrpTFt9Y9EkiOfrE=
+
+Name: assets/data/hvga/world3.png
+SHA1-Digest: msVJxuadrlvxb2tszInF7uv46mQ=
+
+Name: assets/data/downloaded/entireMogas/brazen.png
+SHA1-Digest: cw7ufhnVTLleYoMPg1ywuGsCVxY=
+
+Name: assets/data/hvga/npcs4.png
+SHA1-Digest: 3pn3fxkvf/m2D0sjvXsLGqYoWes=
+
+Name: assets/data/downloaded/portraitMogas/p_hammerdog.png
+SHA1-Digest: e6tiR3/0oNgmNLbgT0jcb92oOLE=
+
+Name: assets/data/downloaded/portraitMogas/p_nox.png
+SHA1-Digest: AMT37pgdl1JJvGJuU36mlFvwZXo=
+
+Name: assets/data/downloaded/portraitMogas/p_knine.png
+SHA1-Digest: u22vgL7neaGGrFtDXtGai8+c+6Y=
+
+Name: assets/data/downloaded/portraitMogas/p_nian.png
+SHA1-Digest: Vg2JxfcQLGmM185q3Jka0lehOWo=
+
+Name: assets/data/sounds/ui_unlock_island.mp3
+SHA1-Digest: 3dUExj9ybx1L/+u4T3nXnYJFRDs=
+
+Name: assets/data/downloaded/island/maps/hell_map.jpg
+SHA1-Digest: u3VKFsuwj0tczBVt/g7Ughkuny0=
+
+Name: assets/data/hvga/quest3.png
+SHA1-Digest: sXj9w5wF49LIvEOCPI5Lm0yYeP0=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_verdura_4.jpg
+SHA1-Digest: 5nn5phdOqS3jCkHNgQ8Z07eGc+Q=
+
+Name: assets/data/downloaded/portraitMogas/p_faust.png
+SHA1-Digest: NlsIVcRm3lVVO+NaCMncc2Tb44w=
+
+Name: assets/data/effects/MoveEffects/taurus.png
+SHA1-Digest: kR4Dv92tM59jps3b/cfu793UNUA=
+
+Name: assets/data/sounds/BattleMusic06.mp3
+SHA1-Digest: z/CtLzR3wIIaYTbYW4zHnjtGkpk=
+
+Name: assets/data/downloaded/entireMogas/vesper.png
+SHA1-Digest: RpNb666oJzX5RweTQw/tGldsjbY=
+
+Name: assets/data/downloaded/portraitMogas/p_humanatee.png
+SHA1-Digest: gcvjeGcBa+pJ/W6jQIjY7Q5TLtY=
+
+Name: assets/data/hvga/blurmogas17.png
+SHA1-Digest: WEnGXeMo7Y2kDdmW8unM3XRqTvE=
+
+Name: assets/data/downloaded/entireMogas/basilisk.png
+SHA1-Digest: IMdrXcpdKRtwoGEZ2JHkEETXt88=
+
+Name: assets/data/downloaded/entireMogas/lepus.png
+SHA1-Digest: PENtjizw0VxtorF3zW5HaH2LkXw=
+
+Name: assets/data/downloaded/portraitMogas/p_carnage.png
+SHA1-Digest: yNcv55BO+3yO3KE1vk+XtXSN/P4=
+
+Name: assets/data/fonts/pack
+SHA1-Digest: aQCQ2l2ds8/3OOuYHtyGWRVkSDM=
+
+Name: assets/data/effects/MoveEffects/pisces.png
+SHA1-Digest: i8pPN6wY34+T8yr/wvF+lnWLpKc=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_misfit_toys_1.j
+ pg
+SHA1-Digest: KfVC7FydtoHIrv1NcAD0f6FXWUI=
+
+Name: assets/data/downloaded/portraitMogas/p_osteros.png
+SHA1-Digest: rig+jVRc0V7kiSRXWVhV7Qvbbfo=
+
+Name: assets/data/downloaded/portraitMogas/p_seidh.png
+SHA1-Digest: 3MZMiV23hN/Tsl7kKXo1PskbMHw=
+
+Name: assets/data/downloaded/entireMogas/orichi.png
+SHA1-Digest: MKc+y9F0K1CLk9Q1tXAtT4rOYBo=
+
+Name: assets/data/sounds/b_p_punch_hit.mp3
+SHA1-Digest: mtJ45VSo/479gLXUirS14JDtN+0=
+
+Name: assets/data/downloaded/portraitMogas/p_bamf.png
+SHA1-Digest: AMCg0cPEDNoNR4pvEYAoxFoCprY=
+
+Name: assets/data/hvga/blurmogas18.png
+SHA1-Digest: ODtekhaProz6dTzPyd29a9GWQvU=
+
+Name: assets/data/downloaded/portraitMogas/p_sphere.png
+SHA1-Digest: 9g7ZjXhVsQDClX4u1BFh6KJEXaA=
+
+Name: assets/data/downloaded/entireMogas/allegro.png
+SHA1-Digest: dm5c5BHz3Agb6idQ4DYp3bF9QMU=
+
+Name: assets/data/sounds/b_z_flame.mp3
+SHA1-Digest: 4fAu49ucwI6h/oaxvc4oklhBNM4=
+
+Name: assets/data/downloaded/entireMogas/gryph.png
+SHA1-Digest: mJejAhkoRN3U6AqST2PJrI0st0g=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_infoplane_1.jpg
+SHA1-Digest: /9VZ2i2MWdiOUVDcalVwaXlw7Co=
+
+Name: assets/data/hvga/portraitmogas2.png
+SHA1-Digest: g/rnZR6Hxjtw2Yx1mXYY3wblcuQ=
+
+Name: assets/data/downloaded/portraitMogas/p_saphirz.png
+SHA1-Digest: y8NNDTJmhM70sYd9RLp2gmL6Jlo=
+
+Name: assets/data/downloaded/entireMogas/blood_yugure.png
+SHA1-Digest: AFfk6qI4yZYxm/iHPi3cIzgNVSQ=
+
+Name: assets/data/hvga/blurmogas13.png
+SHA1-Digest: K67Ccn2QDjL4xP7QURyJPqO8IfE=
+
+Name: assets/data/downloaded/portraitMogas/p_tama.png
+SHA1-Digest: APTA07EhfyJPl5zPcp6knDO14vY=
+
+Name: assets/data/downloaded/portraitMogas/p_tawakan.png
+SHA1-Digest: t963WpdwQ8Y3nUODfEIT/Khd+J0=
+
+Name: assets/data/downloaded/portraitMogas/p_bandito.png
+SHA1-Digest: XXp/VweNp7ETOCOj8i7xKLJeb3s=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_gateway_4.jpg
+SHA1-Digest: nEhyc/twiyYiAjZ2TMCcP2MnH4g=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_infoplane_2.jpg
+SHA1-Digest: SQOgFjldPV5lWaHzqEKz09bA5TY=
+
+Name: assets/data/downloaded/portraitMogas/p_waidio.png
+SHA1-Digest: BapggjzgnUv4aVSputoCvmK7SzI=
+
+Name: assets/data/downloaded/portraitMogas/p_basilisk.png
+SHA1-Digest: zfvjmJ7JtH2OqkIUWPqhN4cE4e8=
+
+Name: assets/data/effects/MoveEffects/capricorn.png
+SHA1-Digest: WvevNIVLyFYxjv04XZehbHtrwEM=
+
+Name: assets/data/downloaded/portraitMogas/p_seraph.png
+SHA1-Digest: +noaMx5wuYXWtyHVciohsdEKx0Q=
+
+Name: assets/data/hvga/world5.png
+SHA1-Digest: 7GIW15Qjm0PQ2szjLEFfmdFnJtE=
+
+Name: assets/data/sounds/Ambience-UniverseMap.mp3
+SHA1-Digest: bCqqtjWcXReK2YzBMpeYX8Ql6Vg=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_hell_1.jpg
+SHA1-Digest: H0WK2M1viqgyEeBiNJU5BisfMmk=
+
+Name: assets/data/downloaded/entireMogas/eclipse.png
+SHA1-Digest: zk/0P+nOu46kRDQq0AOf51hcJXo=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_garden_4.854.jp
+ g
+SHA1-Digest: w1bVYi3cNmBsmNC8t6evFCeBwwg=
+
+Name: assets/data/sounds/b_p_tackle.mp3
+SHA1-Digest: +g0oLPRgJmCMlc7Ipa6fw5Q2VCI=
+
+Name: assets/data/downloaded/entireMogas/clurich.png
+SHA1-Digest: Y+JdvXsRZx/KO+E03GOSIym24fs=
+
+Name: res/layout/main.xml
+SHA1-Digest: mNhReeqS1cSfOO6vc9wKHKMezLU=
+
+Name: assets/data/downloaded/entireMogas/mousemallow.png
+SHA1-Digest: UVruEvyrYDcSbHiurhlNmy7TndU=
+
+Name: assets/data/downloaded/entireMogas/hammerdog.png
+SHA1-Digest: Ph8POPpMDko2m1xQh0m60U+Q02k=
+
+Name: assets/data/sounds/Ambience-HellIsland.mp3
+SHA1-Digest: D/RNujyewdg3HmQ8PL6kQ9oTQnA=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_gateway_1.854.j
+ pg
+SHA1-Digest: lj7b8e1OJ5DobDJFWNbHBFxk/rA=
+
+Name: assets/data/downloaded/island/maps/materials_map.854.jpg
+SHA1-Digest: O/H/T5s5WxaaV/f1cGX5FIPaCzM=
+
+Name: assets/data/downloaded/entireMogas/devibun.png
+SHA1-Digest: YQ7MOVNbR39GV1sYngpA/0m0Gk4=
+
+Name: assets/data/downloaded/entireMogas/leo.png
+SHA1-Digest: +RDAeELI8gEkunkXfg0ePzKetp4=
+
+Name: assets/data/downloaded/island/maps/haterdome_map.jpg
+SHA1-Digest: hRMLeJ4E6wTOWzCpvM2mGRarSFQ=
+
+Name: assets/data/downloaded/entireMogas/skuxette.png
+SHA1-Digest: MHxrHBAIOxCkeNhDj9hvhQ7P+xw=
+
+Name: assets/data/downloaded/entireMogas/eagle.png
+SHA1-Digest: e7gkXCDtUBvlWplWBlKpyXuJMH0=
+
+Name: assets/data/downloaded/portraitMogas/p_meano.png
+SHA1-Digest: uJBCq28BqzJlLxa+UsmLTqAY/xc=
+
+Name: assets/data/sounds/b_z_fan.mp3
+SHA1-Digest: Po/fkCcdCdw6DJQMYT/zPG9ejNA=
+
+Name: assets/data/sounds/b_p_punch.mp3
+SHA1-Digest: DthFr/3wScQH4RSLaPdyBQK3YjQ=
+
+Name: assets/data/downloaded/entireMogas/darrig.png
+SHA1-Digest: Ym0DAcdnA45mW2yNK6eaDNO6vAk=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_garden_2.jpg
+SHA1-Digest: 3MsqBL1fRWF+QQYkkGAkKFfb2RI=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_hell_3.jpg
+SHA1-Digest: E6TzaWcjpvv5MuOP80A7KVPmxoo=
+
+Name: assets/data/downloaded/portraitMogas/p_beefee.png
+SHA1-Digest: fnx0eMF9339Cx4mluSUbKSMS5J8=
+
+Name: assets/data/downloaded/entireMogas/tama.png
+SHA1-Digest: Vc4RjNyRzfJfJXFpWisUx8mc2T0=
+
+Name: assets/data/downloaded/portraitMogas/p_devibun.png
+SHA1-Digest: aXQYcspUDu7l7GDIk40lYjvfvIc=
+
+Name: assets/data/downloaded/entireMogas/swirlicorn.png
+SHA1-Digest: pxqeDMigqIPo4Mp8J6c37j/f2qY=
+
+Name: assets/data/downloaded/entireMogas/niseag.png
+SHA1-Digest: xFoEymvyliT0IXdx2JKMEH+S288=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_hell_3.854.jpg
+SHA1-Digest: NZpHkTaux1BVNljJk3TeXzTDzU4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_wyckid_4.jpg
+SHA1-Digest: hwZi9Jlot9lgGHSFdbzn1hXVJu8=
+
+Name: assets/data/downloaded/portraitMogas/p_darrig.png
+SHA1-Digest: canMMZ1uLNEKu/U3FYpzjaC3mqE=
+
+Name: assets/data/downloaded/entireMogas/pox.png
+SHA1-Digest: WFPKUBsF90GBKGGkxbjfsX278so=
+
+Name: assets/data/hvga/zodiacattack5.png
+SHA1-Digest: iI7i11hrBBhmdSQfYckQMXWXJFw=
+
+Name: res/menu/menu.xml
+SHA1-Digest: n+Vj1RiS75PEUvJpTbgvw2XFjzY=
+
+Name: assets/data/effects/MoveEffects/hit2.png
+SHA1-Digest: yt6PmHLClnYExqTzYnsU5MPcINU=
+
+Name: assets/data/downloaded/island/maps/toys_map.jpg
+SHA1-Digest: vnhXn6uYNO9iqJlpvLAQZCelMDQ=
+
+Name: assets/data/downloaded/entireMogas/jackalope.png
+SHA1-Digest: ip000fwtITdbS7sNQFN+4X6UpAE=
+
+Name: assets/data/sounds/ui_island_node_unavailable.mp3
+SHA1-Digest: zeHDX3ihLIXIlQiQvhPu/7p8rnc=
+
+Name: assets/data/downloaded/portraitMogas/p_vulcore.png
+SHA1-Digest: keSEc+L8JxqDjBVvk8TxPdxfXF8=
+
+Name: assets/data/effects/MoveEffects/gemini.png
+SHA1-Digest: RkqLp05R/Nq4aCmf9zTFtE1z+m8=
+
+Name: assets/data/downloaded/portraitMogas/p_weapie.png
+SHA1-Digest: BnjoQQyFYO/fUyKfP8vtyibx+WY=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_portalout_3.854
+ .jpg
+SHA1-Digest: Hj0k2c7PwCGAL7RqpUawGOAtALE=
+
+Name: assets/data/downloaded/entireMogas/umbranine.png
+SHA1-Digest: jwqf+5X9KWOTdCkubGim/Hr8nfc=
+
+Name: assets/data/effects/MoveEffects/aquarius2.png
+SHA1-Digest: f8CVEmaIoOkVpZHlo3W+5Ez0G/o=
+
+Name: assets/data/downloaded/island/maps/farmland_map.854.jpg
+SHA1-Digest: 5FWiU7xGX+f/2wGpf0tlMkzSu98=
+
+Name: lib/armeabi-v7a/libandroidgl20.so
+SHA1-Digest: T3Re9lHBRQ177kCvIUyqP94xG6k=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: assets/data/downloaded/island/maps/gateway_map.jpg
+SHA1-Digest: s21iSKMM8lKT97SKV9fNQxhiT64=
+
+Name: assets/data/downloaded/island/maps/infoplane_map.854.jpg
+SHA1-Digest: 8MBGApz5qr5HwQaDbEr2dOtFBt4=
+
+Name: assets/data/downloaded/island/nodeBackgrounds/bg_gateway_3.854.j
+ pg
+SHA1-Digest: 02eOjtWLzw2bkp8g8rjiDOCHrcg=
+
+Name: assets/data/downloaded/island/maps/garden_map.854.jpg
+SHA1-Digest: f/WsPylbHgXyJvQv/maOAWX90sc=
+
+Name: assets/data/hvga/npcs2.png
+SHA1-Digest: Pxmocw+TigAVojd7ayd4nUVtbh8=
+
+Name: assets/data/downloaded/island/maps/boneyard_map.jpg
+SHA1-Digest: BQRSIMJB9Y5fRpYkBAoGcqc6yFI=
+
+Name: assets/data/downloaded/entireMogas/plasmian.png
+SHA1-Digest: uXI6kypzBrqPil2mfHjmbEZkvJY=
+
+Name: assets/data/sounds/b_seed_thrown.mp3
+SHA1-Digest: ag+p5eTu52ocOf3YexDP7oj4ukc=
+

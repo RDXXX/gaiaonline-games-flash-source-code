@@ -1,0 +1,698 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: KI6po0uU8WiZhvShflIAPgVeejM=
+Created-By: 1.6.0_45 (Apple Inc.)
+SHA1-Digest-Manifest: 5qVn0JmHFXRzj1pyb+G0+t6Q/lw=
+
+Name: assets/widget_ios/button/backLarge/default@2x.png
+SHA1-Digest: 5q5qwh9l19pFeASD4leaOyzcsf8=
+
+Name: assets/images/menu_announcements.png
+SHA1-Digest: MwL6TVSWZ7WKGWNspo97kfJW9jo=
+
+Name: assets/widget_ios/button/backLarge/default.png
+SHA1-Digest: wCOhw0qldgMolOkSwmcb0D5eEHc=
+
+Name: res/drawable/facebook_icon.png
+SHA1-Digest: PDgDHoip/6HBjLGwRLz06l35sy4=
+
+Name: assets/widget_ios/pickerWheel/bg@2x.png
+SHA1-Digest: S9lHtBOZS4p7nBNxZTR7+zhBHFA=
+
+Name: res/drawable-mdpi/ic_maps_indicator_current_position_anim3.png
+SHA1-Digest: 1cgZBPOt3iYBd2mjEIcP2McgaqQ=
+
+Name: assets/images/menu_marketplace.png
+SHA1-Digest: F1+fhVp5JDYu0ayOtbD6RYiMlT8=
+
+Name: assets/resource.car
+SHA1-Digest: Ao02e/oFkxEKVliNu6aFIOjeAgk=
+
+Name: res/drawable-ldpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: uLxK9fjSrwMB7dRnYhe6Be4yZa8=
+
+Name: res/drawable-hdpi/ic_maps_indicator_current_position_anim3.png
+SHA1-Digest: VaOq+LH3Spshqg8aSctdLyJhLPE=
+
+Name: assets/images/menu_forums_over.png
+SHA1-Digest: nUafFHNIqQ/dDA1ruddZIFuWxMk=
+
+Name: assets/widget_ios/button/sheetBlack/over.png
+SHA1-Digest: 4ywmvMm3I8ccEEIBVv4e67TzXwY=
+
+Name: assets/images/scratchaway_bg.png
+SHA1-Digest: Zi3Ek1c8s31A0C0qvtwS4qDQ/l4=
+
+Name: assets/widget_ios/button/blue2Large/over.png
+SHA1-Digest: n6KJGLjcr+xF/DruqRKXVMIIl3U=
+
+Name: assets/images/menu_offer.png
+SHA1-Digest: rgBFTv9cia8O2go6o9POFylUnUM=
+
+Name: assets/widget_ios/button/redLarge/over.png
+SHA1-Digest: BkHsV/VZk0Kx5v6d2sy98Wnrctk=
+
+Name: assets/images/menuscreen_bkgd_11.png
+SHA1-Digest: eAZLhr0N88/x0QNzgOT307ZSHsE=
+
+Name: res/drawable-hdpi/ic_maps_indicator_current_position_anim1.png
+SHA1-Digest: tm5Qm+3t/bYX+kWxjPqlHzpCpPk=
+
+Name: res/drawable-xhdpi/corona_statusbar_icon_default.png
+SHA1-Digest: tnF5+c21s2fvVHFaNSd3t42F4+8=
+
+Name: res/drawable-ldpi/ic_menu_refresh.png
+SHA1-Digest: GE+LRn2VF4OudQ7suvGHHWDK3eo=
+
+Name: assets/widget_ios/button/redSmall/over@2x.png
+SHA1-Digest: HMSTgpT2itqm18HenHlNTKg1MAY=
+
+Name: assets/images/loading_bg.png
+SHA1-Digest: 4/9VvWPd7b2FYVrMsVha+87Elkg=
+
+Name: assets/widget_ios/button/redSmall/default@2x.png
+SHA1-Digest: /l/YUrfWu6OaisGsqtA4of19aSw=
+
+Name: assets/widget_ios/button/over@2x.png
+SHA1-Digest: MWRJAPNRf6U5BbRMPRf7Vp+Xdt4=
+
+Name: assets/widget_ios/pickerWheel/separator.png
+SHA1-Digest: d6L++/1rXPyIL0C9QCtBB4vyDc8=
+
+Name: lib/armeabi-v7a/libsdl.so
+SHA1-Digest: Lg9uietYa2pfOQu3Rxek93/VKSM=
+
+Name: res/drawable-hdpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: GVC2hKai1xo7eWjkxkY/yN9LtZI=
+
+Name: res/drawable-xhdpi/ic_maps_indicator_current_position_anim2.png
+SHA1-Digest: z/4TgXODYG576reqWLo3jEJwu7w=
+
+Name: assets/widget_ios/button/backSmall/default@2x.png
+SHA1-Digest: tKldKSLCtn4NfhSI4m/KzZAw8wc=
+
+Name: assets/images/tab_wishlist.png
+SHA1-Digest: iWauG2UzZV+Thh1aWLGuqeodL5Y=
+
+Name: res/drawable-hdpi/corona_statusbar_icon_default.png
+SHA1-Digest: +k4eYKcx+hHqiT9BPhlcrtpe8/I=
+
+Name: res/drawable-hdpi-v9/corona_statusbar_icon_default.png
+SHA1-Digest: y5hxge6cOnLtja8VRIzZBGiwIck=
+
+Name: res/raw/corona_map_view.html
+SHA1-Digest: E0/qdKY4ZGEmFK5ULl+Zx04Q2ao=
+
+Name: lib/armeabi-v7a/liblua.so
+SHA1-Digest: 8/qtmMd9SSquP7B/s9UDO59N2eg=
+
+Name: assets/widget_ios/button/redLarge/over@2x.png
+SHA1-Digest: cM9Ov9d9Ytlqc/Jb5JnsjPr1sTY=
+
+Name: lib/armeabi-v7a/libjnlua5.1.so
+SHA1-Digest: nkoOMkeT4u176W5DzEut+oRfqm8=
+
+Name: assets/widget_ios/button/redSmall/over.png
+SHA1-Digest: H41WBWXJkWwdu/yIgLDa9x9cg1s=
+
+Name: assets/widget_ios/button/redSmall/default.png
+SHA1-Digest: kV+0L5gqN7RrVIcBX6o1vJkpKFc=
+
+Name: assets/images/menu_announcements_over.png
+SHA1-Digest: BCFrtEsCR0TryPMkGHbKgmlgzfc=
+
+Name: assets/widget_ios/button/over.png
+SHA1-Digest: sH800PDl9vGjoJMoGfsulD/QB8w=
+
+Name: assets/widget_ios/button/sheetRed/default@2x.png
+SHA1-Digest: kCWvO5j9Wai+rW0JcOmytzMZtXg=
+
+Name: assets/images/forward_btn.png
+SHA1-Digest: tet9SJRSiiqmPozn5NvevWdB5Pc=
+
+Name: assets/widget_ios/button/redLarge/default.png
+SHA1-Digest: qT87olkpw6LRJ1FxGtLHZIQvUCM=
+
+Name: res/drawable-ldpi/ic_maps_indicator_current_position.png
+SHA1-Digest: IS433e49e6hpNHYthvty1ehTJOM=
+
+Name: assets/images/login_logo.png
+SHA1-Digest: eEiy6T8BT9c6RRpj4IrgEO6U1Wg=
+
+Name: res/drawable-xhdpi/ic_menu_camera.png
+SHA1-Digest: +RRJP23+liEh4Om6S67mERkggfA=
+
+Name: assets/images/bg.jpg
+SHA1-Digest: SdaGudICmmccPs94oOyi43JFZNk=
+
+Name: assets/widget_ios/pickerWheel/bg.png
+SHA1-Digest: parODOAtFuaECHEo3gas79twdjg=
+
+Name: res/drawable-ldpi/close.png
+SHA1-Digest: GpQ/uhL8F4MYkgoe8iWpIwXfuA4=
+
+Name: res/drawable-hdpi/ic_maps_indicator_current_position.png
+SHA1-Digest: 2+0dBSvf17tFlFXJiiDpE01+enY=
+
+Name: assets/Icon.png
+SHA1-Digest: l/1LYmBPv14CJnc/8SQk+seKcTo=
+
+Name: assets/images/notices_icon.png
+SHA1-Digest: +JL8ygtprZXlnA+XyhQ3CQWdd28=
+
+Name: res/drawable-xhdpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: XufivK7AyGr/GcESDPEYAp1B2/Q=
+
+Name: assets/images/tab_marketplace.png
+SHA1-Digest: 7p1LER7PuDsALw00YePyWDdgCpQ=
+
+Name: res/drawable-mdpi-v9/corona_statusbar_icon_default.png
+SHA1-Digest: teSfBT6D2ISHwCbPzTtUPLblhrU=
+
+Name: lib/armeabi-v7a/libgameNetwork.so
+SHA1-Digest: BrxqDUwoj3gT4CJDI2zTmEBuuNQ=
+
+Name: assets/widget_ios/button/sheetYellow/over.png
+SHA1-Digest: BLu42moUR7Wli2Qq6pNEcq6JSL8=
+
+Name: assets/widget_ios/slider/sliderBg@2x.png
+SHA1-Digest: iAkK9ZwfWAwltpl+VXH+FJhUhL8=
+
+Name: res/drawable-xhdpi/ic_menu_refresh.png
+SHA1-Digest: 7V/c26D6ykii5OKS2qqcOen3OYk=
+
+Name: res/drawable-ldpi/ic_maps_indicator_current_position_anim1.png
+SHA1-Digest: nAZLOS6Zngvn5g4S7ZibHRceIoI=
+
+Name: assets/images/navBar.png
+SHA1-Digest: IxpI6YCB+Y/x4ttT2Tg1qRmCSHI=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: +YWWUeEVV/k9HNT5QCl2WZT53bQ=
+
+Name: assets/images/backButton.png
+SHA1-Digest: N29oHhJl2Jaozu00BPMYD8Q8knw=
+
+Name: assets/widget_ios/button/blackSmall/over@2x.png
+SHA1-Digest: ZaFRJPYcgYBhGH7ed5pIlbPVqWE=
+
+Name: res/drawable-mdpi/ic_menu_camera.png
+SHA1-Digest: /nCSFy7tHwCVwXdludyyheqfj/o=
+
+Name: assets/widget_ios/button/blackLarge/default@2x.png
+SHA1-Digest: Ygtd8edvNQRnk/Jk64wa25+YWfg=
+
+Name: assets/widget_ios/button/sheetGreen/default@2x.png
+SHA1-Digest: Wkwt289GOBN4hfSusJHJT+2KCFw=
+
+Name: assets/images/menu_outfits_over.png
+SHA1-Digest: 3W7gMn+tHEatxLi/bqSNf1TDSDE=
+
+Name: assets/images/loading_bar.png
+SHA1-Digest: iBUPT4Q2nOlsN/2F4ms1xVnG990=
+
+Name: lib/armeabi-v7a/liblicensing.so
+SHA1-Digest: bwBPpDQA6CPJ8EoribROO8NAgjc=
+
+Name: assets/images/menuscreen_bkgd_9.png
+SHA1-Digest: J+n4JQWvG2KiZ7yW5FXSPr7UATo=
+
+Name: assets/images/menu_marketplace_over.png
+SHA1-Digest: VRo/a0Xjyab8hvk32DL7qLbvTSU=
+
+Name: lib/armeabi-v7a/libanalytics.so
+SHA1-Digest: rFH2Ohqx6/a3pejwWDfGUBA2AL0=
+
+Name: assets/images/menuscreen_bkgd_2.png
+SHA1-Digest: xwbmwQx+79N+6hBdwpthXk+u68w=
+
+Name: assets/images/menuscreen_bkgd_10.png
+SHA1-Digest: TG32tGfJuz7A6Rbn+aTsYgoni1M=
+
+Name: assets/psd/loading.psd
+SHA1-Digest: 7NgLLNvZ9gk3cr11fIItiVreCNo=
+
+Name: assets/images/menuscreen_bkgd_5.png
+SHA1-Digest: r1T6OrD9hpo1m7QPy+nZt47i5hI=
+
+Name: assets/widget_ios/button/blue1Large/over@2x.png
+SHA1-Digest: ZxYESFc4UUmMguNrcrpHv+5AMJ4=
+
+Name: res/drawable-mdpi/ic_maps_indicator_current_position_anim2.png
+SHA1-Digest: jZWCxqF/rdjnUBoxYvDjCHMoomM=
+
+Name: assets/widget_ios/pickerWheel/overlay.png
+SHA1-Digest: 8cYcizUrwwVpwhd2/FqVVZAhBRk=
+
+Name: assets/images/menuscreen_bkgd_6.png
+SHA1-Digest: 3KQERCfiknNf+CnHULqARBoAGgY=
+
+Name: assets/widget_ios/button/backLarge/over.png
+SHA1-Digest: OmXyCzPi4KHWtk0RXOZUciceuCE=
+
+Name: assets/images/tab_subscribed.png
+SHA1-Digest: Kc2B6SNF5qVRQ7bhWCS5M4TB+/w=
+
+Name: assets/widget_ios/button/blackLarge/over.png
+SHA1-Digest: F88Bbb33W69GEfeSvwrjDtTzB2w=
+
+Name: assets/images/btn_back.png
+SHA1-Digest: MLOKhAEAQbK8aocTl23OiOAZHso=
+
+Name: assets/Icon-mdpi.png
+SHA1-Digest: 87n1eLOsHkmG6kDx0EbnZXCZcqg=
+
+Name: assets/images/gcash_btn.png
+SHA1-Digest: g/30pUT+TM0Dy837e8GuzPVgbkM=
+
+Name: assets/images/menu_cashshop_over.png
+SHA1-Digest: Af2lE5jh23QHlmIQ5PxB5cRw1ew=
+
+Name: assets/widget_ios/button/blue2Small/over@2x.png
+SHA1-Digest: YCzNgXdR3LsA8zmvgK6Ihy7LPOs=
+
+Name: assets/widget_ios/slider/handle.png
+SHA1-Digest: 46h+SuZXxkDxpIz32oKluMm+OBs=
+
+Name: assets/images/tab_my_store.png
+SHA1-Digest: 1O12qqauNAMMpvPFFiifxj9YyPI=
+
+Name: assets/widget_ios/button/blackLarge/over@2x.png
+SHA1-Digest: EripZ/yHSG02b4MhoDHd57RIxrM=
+
+Name: assets/widget_ios/pickerWheel/overlay@2x.png
+SHA1-Digest: 8wkqwyKIlPZOQPmcc6G6qGWJRgc=
+
+Name: lib/armeabi-v7a/libmpg123.so
+SHA1-Digest: b/3TQ6n7NtfZ6JxsaHK8v/Nf7hM=
+
+Name: assets/widget_ios/button/blue1Small/default.png
+SHA1-Digest: p8MIUYtrbRHvTccKoBWJ6m/KuuE=
+
+Name: res/raw/corona_asset_widget_theme_onoff_mask.png
+SHA1-Digest: 4VP/lRrt/TuwhxsRID/skLMRYeU=
+
+Name: res/raw/corona_3rd_party_licenses.txt
+SHA1-Digest: qRztAKazT80g3lV3uCMPn9TCa7o=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: oRLJkdOS/FW071Z70qRwE2vYe3U=
+
+Name: assets/images/account_btn.png
+SHA1-Digest: QOXaC1hsEzwYb+ZNw648PylEWzM=
+
+Name: res/drawable-ldpi-v9/corona_statusbar_icon_default.png
+SHA1-Digest: 4oxz3IH34LIX2ZoTCnygF8sLsKE=
+
+Name: lib/armeabi-v7a/libcorona.so
+SHA1-Digest: JY1e5zbkEnQ67+rjAEOVqbttA+s=
+
+Name: assets/images/menuscreen_bkgd_4.png
+SHA1-Digest: r2xY2GJLQkdqApEP3D+7dnn0THs=
+
+Name: assets/widget_ios/button/sheetGreen/default.png
+SHA1-Digest: os9Qy+xcdk3NwO24O1YZywvSRiY=
+
+Name: assets/widget_ios/button/default.png
+SHA1-Digest: eNkbSuOsz6UVmqdcN4z/BZHN0n8=
+
+Name: assets/images/menu_notices.png
+SHA1-Digest: SmiKQW6W+6F2vVyvwrDUlBqYbKk=
+
+Name: assets/widget_ios/button/backSmall/over.png
+SHA1-Digest: 06mAQKwh3ag6vm5WU8D6OVCHpqU=
+
+Name: assets/widget_ios/button/sheetRed/over@2x.png
+SHA1-Digest: mTtBH/33dwKBamXa+xACcIX8noI=
+
+Name: assets/widget_ios/button/backLarge/over@2x.png
+SHA1-Digest: L5RI8DOg1IMzqnBQ8/m95tU79mg=
+
+Name: assets/widget_ios/button/sheetBlack/over@2x.png
+SHA1-Digest: SrfsTKeNoTGztYbvYx5YDUopHbY=
+
+Name: assets/Icon-hdpi.png
+SHA1-Digest: uik9AU7Lv+aG3PGcNR6sJbQ9sQY=
+
+Name: assets/Icon-ldpi.png
+SHA1-Digest: 91gKvMwmEzKneIfJmLnaGDUCOP4=
+
+Name: assets/images/mask-small.png
+SHA1-Digest: 0JuYXvUF7/lKAs2Ws5ATAviJKJc=
+
+Name: assets/widget_ios/button/sheetRed/default.png
+SHA1-Digest: kX0jZbhfdBpcq4P+JZ6C4rBMTDk=
+
+Name: assets/images/menu_mail.png
+SHA1-Digest: u/NgUPcgquC1zDV2HXTNyWFXcbI=
+
+Name: assets/images/shadow.png
+SHA1-Digest: usMgWneou2jPyU6oJrfz7IILDno=
+
+Name: res/drawable-xhdpi/close.png
+SHA1-Digest: HsnTZz4MVk/Xyi5uF3BNaLcKl7c=
+
+Name: assets/images/menuscreen_bkgd_12.png
+SHA1-Digest: Wk7f05UOedjyslVLCUhypv1tiyA=
+
+Name: assets/images/listItemBg_white.png
+SHA1-Digest: D3B4j8ZXvCj1wuennJe359/EToc=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: PsTurSw1mzHWdc8MF+fnZJXtGvc=
+
+Name: res/drawable-ldpi/facebook_icon.png
+SHA1-Digest: YSuvASwvSMVgSVI9vP+fi0h4rpY=
+
+Name: lib/armeabi-v7a/libplugins.so
+SHA1-Digest: AN9i2hJwaR1BSkU6V5eroNbzNtQ=
+
+Name: assets/images/mask-320x366.png
+SHA1-Digest: rwqfuCtz4wqfQ40M0arHlusCHss=
+
+Name: res/drawable-xhdpi-v9/corona_statusbar_icon_default.png
+SHA1-Digest: yymESZbWxG9xmSnttHEt82QETeU=
+
+Name: assets/widget_ios/button/blue2Large/default.png
+SHA1-Digest: h3WON2q+7hX1wsGVYquY3pLtk9s=
+
+Name: assets/widget_ios/button/redLarge/default@2x.png
+SHA1-Digest: tIu1GkEovFfQc6tlJKv8/Kl/JGA=
+
+Name: assets/images/menu_forums.png
+SHA1-Digest: bZfMAy/yOb4Ee8RYAA4bzwkIakw=
+
+Name: res/drawable-hdpi/facebook_icon.png
+SHA1-Digest: w3XnuXBmFTUdZmS5mvNEtFcAU8k=
+
+Name: assets/images/menu_dressup_over.png
+SHA1-Digest: cqKpuUS8CGBFJK58ojiJrmtyVY8=
+
+Name: assets/images/progressBar.png
+SHA1-Digest: WhWLFTG/B6Ec9jP6dUufRjyczSg=
+
+Name: assets/widget_ios/button/blue2Large/over@2x.png
+SHA1-Digest: vDEMXElHReVy+u9mb4e6Vmw93jU=
+
+Name: res/drawable-ldpi/ic_menu_camera.png
+SHA1-Digest: YJVs237jM26Ka5MeYXE/gl5n9Nw=
+
+Name: assets/images/contacts.png
+SHA1-Digest: ebBCN/sn7igbzVwzaHPa7BBy89g=
+
+Name: res/raw/corona_asset_widget_theme_android_2x.png
+SHA1-Digest: d/q7O8oVbD9P+ND+O7UzkhiVw14=
+
+Name: assets/images/gold_icon.png
+SHA1-Digest: j7YG8qZtoOHF0zOxFyORBObbk/0=
+
+Name: assets/images/icon_inbox.png
+SHA1-Digest: hI+u7I7QVDtU2FeovWqmPoxhfVo=
+
+Name: res/drawable-xhdpi/ic_maps_indicator_current_position_anim1.png
+SHA1-Digest: q/8h/1odnrgScvwsKEh2Vavztg0=
+
+Name: assets/widget_ios/slider/small120/sliderBg@2x.png
+SHA1-Digest: D88ofasRE9mlChYfU+yDQfTEdIc=
+
+Name: res/drawable-hdpi/ic_menu_camera.png
+SHA1-Digest: obWkOCS6xNoRPN/nn+4+WLm95E4=
+
+Name: res/drawable-mdpi/ic_maps_indicator_current_position_anim1.png
+SHA1-Digest: eD/xB3TjpTq1poqNmAvtXg8HSF8=
+
+Name: res/raw/corona_asset_widget_theme_ios_2x.png
+SHA1-Digest: /Af1qr6pUE0LN1zLO7gnKdh6XN8=
+
+Name: assets/images/requests_icon.png
+SHA1-Digest: AUlDq6Gm3pv1C85jgQt5Twm+ayQ=
+
+Name: res/drawable-xhdpi/ic_maps_indicator_current_position.png
+SHA1-Digest: pkuP6a7whfGfSNZdQX1txH5XR4E=
+
+Name: assets/images/menuscreen_bkgd_7.png
+SHA1-Digest: 8IDErZF+LZGQRBZy9QM8UJ0ht78=
+
+Name: res/drawable-mdpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: tSPAGNeiMkGqF9cqTXRrZH3+dFQ=
+
+Name: lib/armeabi-v7a/libads.so
+SHA1-Digest: t1UuLCqDngvxfG/QNaxFhDbKELc=
+
+Name: lib/armeabi-v7a/libvorbisidec.so
+SHA1-Digest: ISBvXLrYwHSEcWrG61X8vodnmsQ=
+
+Name: assets/widget_ios/button/sheetBlack/default@2x.png
+SHA1-Digest: 1JXJSwkg181VwWPwkUlvRQ4iIDo=
+
+Name: resources.arsc
+SHA1-Digest: N6B5qIBJTyyk71tof7DYQEL4i7Q=
+
+Name: assets/widget_ios/button/backSmall/default.png
+SHA1-Digest: NzEl6GuPdqmZoA9VLPVwVlM+n24=
+
+Name: AndroidManifest.xml
+SHA1-Digest: TN7kfweKU/XgcaloeJoZCuq/Wlk=
+
+Name: lib/armeabi-v7a/libalmixer.so
+SHA1-Digest: 8qGK91nepVW7upyWQXEz5Aer2OY=
+
+Name: assets/images/scratchaway_win.png
+SHA1-Digest: rQsiJ41GITnosxoVuFSmlFRC5Dk=
+
+Name: assets/images/menu_offer_over.png
+SHA1-Digest: UOhf1CAjzGK5afXWHKTi8hHKtJU=
+
+Name: assets/images/blank_btn.png
+SHA1-Digest: M2nf3cDgwpAiqb+0MdsaRDo4/4k=
+
+Name: assets/widget_ios/slider/sliderFill.png
+SHA1-Digest: UqxtESgkqbtrNTM4RaXHWCtBg0U=
+
+Name: res/drawable/close.png
+SHA1-Digest: KT9xxVpYmAMvsVvle7QJxeCUI4Y=
+
+Name: assets/images/avatar_strip.png
+SHA1-Digest: Sr9qJWNrPXfhkABZzlufSCvu3sk=
+
+Name: res/drawable-mdpi/corona_statusbar_icon_default.png
+SHA1-Digest: gguK5H4vfADuT7l4urr0ugbhl0Y=
+
+Name: assets/images/Default.png
+SHA1-Digest: AscRVkGI21IhFFQp3G+CodbqqIo=
+
+Name: assets/images/back_btn.png
+SHA1-Digest: MjkdtvIDv/jI9zopNqG3+XhRdRE=
+
+Name: assets/images/icon_savedbox.png
+SHA1-Digest: AUtWPrge1jZUjgmj8hettL00WtA=
+
+Name: res/drawable-xhdpi/ic_maps_indicator_current_position_anim3.png
+SHA1-Digest: Ec2mXMl8eL8lVvyhoW9RQWGK+1A=
+
+Name: assets/images/dailychance_ticket.png
+SHA1-Digest: MvIGJa1Hye7KGZDrBkFzXR0f3sI=
+
+Name: assets/widget_ios/button/sheetGreen/over.png
+SHA1-Digest: XyuDoMJVzxOMq/4SUZeZ6TiB1v0=
+
+Name: res/drawable-mdpi/ic_maps_indicator_current_position.png
+SHA1-Digest: 4C8RcwJrLjaqk5jg7rE/bOaJHE8=
+
+Name: assets/images/listItemBg_over.png
+SHA1-Digest: JvfWu4/EVa3p0S7z0CnQKBwzBsE=
+
+Name: classes.dex
+SHA1-Digest: DS3d0o0DbYb5WbLWmMjoy4sHums=
+
+Name: assets/images/smallButtonOver.png
+SHA1-Digest: Hd9ffheFv8psbp+jB5pCLYJamIs=
+
+Name: assets/widget_ios/slider/handle@2x.png
+SHA1-Digest: 7u1/OOS2CbUl7kuNL2H5wCm0QHc=
+
+Name: res/drawable-hdpi/ic_maps_indicator_current_position_anim2.png
+SHA1-Digest: QONSbN7G9EKUY3iAAdONx3YwSok=
+
+Name: assets/images/menuscreen_bkgd_8.png
+SHA1-Digest: /7NKiShP0Tt03S6fae0E4mNFvq8=
+
+Name: assets/widget_ios/slider/small120/sliderBg.png
+SHA1-Digest: mhQBzluiVTbhemihyWtFms7zY7Y=
+
+Name: assets/images/blank_btn_s.png
+SHA1-Digest: Xoct7gXP6lIN0N/VLnaWtL1FN08=
+
+Name: assets/images/stuff_icon.png
+SHA1-Digest: ZeyIsMDUlxNdYZkfe//0w6T4spI=
+
+Name: assets/images/expressstore_btn.png
+SHA1-Digest: kfq0ppT0o8nb3WzBGotp6lFz/DY=
+
+Name: assets/widget_ios/button/blue2Small/over.png
+SHA1-Digest: sphcIWLI+Hc3xfGZoFefQrAOjRI=
+
+Name: assets/widget_ios/button/blue1Small/over@2x.png
+SHA1-Digest: xcb016Klw77YwF0foBjrpjdSSHc=
+
+Name: assets/images/menu_dressup.png
+SHA1-Digest: FVSk1lYo+ONQU716UQPZtIILSF4=
+
+Name: assets/widget_ios/button/sheetYellow/over@2x.png
+SHA1-Digest: KTncSVo2eGvA5p3+E5hlr1+uREc=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: pKxY1YV/m8wHKujZGxXDDJlaTcc=
+
+Name: assets/widget_ios/button/blue1Small/over.png
+SHA1-Digest: 3t5HEaXEAnA6ToA0/qVj4loeYTM=
+
+Name: assets/widget_ios/button/sheetYellow/default@2x.png
+SHA1-Digest: wgfsGrOS1sHrehil7D5/m50QZ64=
+
+Name: res/drawable-ldpi/ic_maps_indicator_current_position_anim2.png
+SHA1-Digest: XHBcrD016YFpv7651JBkJEEe/ok=
+
+Name: assets/images/smallButton.png
+SHA1-Digest: KVNuZFlCzGcNIhRS+wGqNnkJ7v0=
+
+Name: assets/widget_ios/button/sheetRed/over.png
+SHA1-Digest: ex9J6G4kpUW3CZnZ5z0o2sTE+KY=
+
+Name: res/raw/corona_asset_widget_theme_android.png
+SHA1-Digest: WF8LGqNBqiqV9qkdoI1MaNPSj0w=
+
+Name: assets/widget_ios/button/default@2x.png
+SHA1-Digest: x32zHcmiNd+FCZBVR6nSbu4UFu0=
+
+Name: assets/widget_ios/button/blue2Large/default@2x.png
+SHA1-Digest: LAzDCBW3b/C70QYSRhPeBuOrraM=
+
+Name: assets/widget_ios/slider/sliderFill@2x.png
+SHA1-Digest: JFaDwSpFUiFq3NxaPj3qlOoJrcc=
+
+Name: assets/images/menu_outfits.png
+SHA1-Digest: jaSFhJRV4pjhkGGn0W9Zawycess=
+
+Name: assets/widget_ios/pickerWheel/wheelmask.png
+SHA1-Digest: 7qEuwpcUyTm/27Fg4dRYBtv2Ie0=
+
+Name: assets/images/offer_background.png
+SHA1-Digest: 8pki8vBYkiZKyFdS+6N/pFLD/Lw=
+
+Name: assets/images/tab_search.png
+SHA1-Digest: l/tpc/2vogpCvCo7XWenN4MkRPw=
+
+Name: assets/widget_ios/button/blue1Large/over.png
+SHA1-Digest: xs7qs7HReEKqlYWsqzSsWB/ViOM=
+
+Name: res/drawable-ldpi/ic_maps_indicator_current_position_anim3.png
+SHA1-Digest: pUcMELHzpImThxTZHYc/n5y+JJg=
+
+Name: assets/widget_ios/button/blue2Small/default.png
+SHA1-Digest: h8/kkDfESJuBAcLttweNIlYLTqc=
+
+Name: assets/widget_ios/button/sheetGreen/over@2x.png
+SHA1-Digest: MkioD1kluEY+VsSCdkkfsqeizGw=
+
+Name: lib/armeabi-v7a/libCoronaProvider.gameNetwork.corona.so
+SHA1-Digest: lVUkVxAu5F6tzqhrFO0SLDHjyc0=
+
+Name: assets/widget_ios/button/sheetBlack/default.png
+SHA1-Digest: Odjdte3tEd61gAJAhsZTuzaemF8=
+
+Name: assets/widget_ios/button/blackSmall/default@2x.png
+SHA1-Digest: zxODV1wEwOEDu0KoVxjznvyawZo=
+
+Name: assets/widget_ios/button/blackSmall/default.png
+SHA1-Digest: GcOiM9VeEcoFlOPVFQMyiwhP9dc=
+
+Name: assets/images/menu_notices_over.png
+SHA1-Digest: i8hCFctWraKwNcnlYulnBGNyaGA=
+
+Name: assets/widget_ios/button/blue1Large/default@2x.png
+SHA1-Digest: C1KPXo6kRcxIEjGjj69pjgV0+Kg=
+
+Name: assets/images/icon_outbox.png
+SHA1-Digest: VcGX3G3yJsEzxx9O4FgKSgUxoaE=
+
+Name: assets/images/menuscreen_bkgd_3.png
+SHA1-Digest: oGHxqDGtGEqbMHwqaarHujm0ezI=
+
+Name: res/drawable-mdpi/ic_menu_refresh.png
+SHA1-Digest: DqFfbHZiJ+4LybH5pZxRFdx+kYA=
+
+Name: assets/images/status_icon.png
+SHA1-Digest: 2u1el90OAq89NF4LJKonuPyN4bY=
+
+Name: assets/widget_ios/button/blue1Large/default.png
+SHA1-Digest: 3Zh5Rh0+DUtfjrWndmSxkvYOecc=
+
+Name: assets/widget_ios/slider/sliderBg.png
+SHA1-Digest: GMSlWD+4VCtPB1zbGZid/nopWiw=
+
+Name: assets/images/menuscreen_bkgd_1.png
+SHA1-Digest: 3q8esKVJlgelVZLj6E6wHX1W2NQ=
+
+Name: assets/images/icon_sentbox.png
+SHA1-Digest: +nfwUJesi7km223CoUBpgpAeMDo=
+
+Name: assets/widget_ios/button/blackLarge/default.png
+SHA1-Digest: Yu3R8Yggapnv0QLgB/2ETSDRFC0=
+
+Name: assets/images/backButton_over.png
+SHA1-Digest: n89Gqon9LlJQCyJxye8TUsidQPA=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: NVPGM2tWrhpmJh4nwa5vOJcvhu0=
+
+Name: assets/widget_ios/button/sheetYellow/default.png
+SHA1-Digest: ArRLX2myOVjhviqKmcz3Ujnsglc=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: coTNOFaZ1TakyTnAiWnGWdr2B+E=
+
+Name: res/drawable-hdpi/ic_menu_refresh.png
+SHA1-Digest: WYccvtnDzpbRGUQ1z3Maax+S8e4=
+
+Name: res/raw/corona_asset_widget_theme_ios.png
+SHA1-Digest: tPBJnfVq8BrMSy8tvCExd/RtD9w=
+
+Name: assets/images/menu_cashshop.png
+SHA1-Digest: E6ngO5Itb7hMosch/LcKU2upUkg=
+
+Name: res/drawable-ldpi/corona_statusbar_icon_default.png
+SHA1-Digest: sMVaWrhshfOIaEMt17bDWeRP5Qo=
+
+Name: res/raw/corona_asset_widget_theme_pickerwheel_mask.png
+SHA1-Digest: hODdOzLc930wk0p+vPVZ7ECs/rw=
+
+Name: assets/images/tab_forums.png
+SHA1-Digest: K74eQWGinIj0yrQ4MRbtva1OE1A=
+
+Name: assets/images/listItemBg.png
+SHA1-Digest: ft3BiO7FpOWUePbU6gDh+hxh9tk=
+
+Name: assets/widget_ios/button/backSmall/over@2x.png
+SHA1-Digest: SyrACCnSdPfPo85aMWW0a5OYDzE=
+
+Name: assets/images/gcash_icon.png
+SHA1-Digest: bK9xZh5lnbTCwpcKAIaV0zSIbeA=
+
+Name: assets/images/login_bkgd.png
+SHA1-Digest: GyYjC5n0rGQNlJeEYv7xyssuKwM=
+
+Name: assets/widget_ios/button/blackSmall/over.png
+SHA1-Digest: w1+l9D4Jr3DFBxQ7VWEZuVr73Is=
+
+Name: assets/images/menu_mail_over.png
+SHA1-Digest: dNJkbLyc8ew5zY67lVxbL66AlNo=
+
+Name: assets/widget_ios/button/blue2Small/default@2x.png
+SHA1-Digest: eGjwTkPj72UcrmBt7vt34upD9AY=
+
+Name: assets/widget_ios/button/blue1Small/default@2x.png
+SHA1-Digest: 7hGaEnGMcp22Tlo+uJpexmF1hsA=
+
+Name: assets/images/tab_history.png
+SHA1-Digest: DG+WJkiU+kAFeBbSAS3MS6IpT+Y=
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_gravity="center|left|top" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:paddingTop="12.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="24.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="left" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Tweaks status" android:layout_weight="1.0" />
+            <ToggleButton android:id="@id/tweaks.enable" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:textOn="On" android:textOff="Off" />
+        </LinearLayout>
+        <TextView android:textStyle="bold" android:textColor="#ff76abf2" android:paddingLeft="25.0dip" android:paddingBottom="10.0dip" android:layout_width="350.0dip" android:layout_height="wrap_content" android:text="Whether to enable all tweaks." />
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/tweaks.otheroptions" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="24.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="left" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Blue coffees" android:layout_weight="1.0" />
+                <EditText android:id="@id/tweaks.bluecoffees" android:layout_width="200.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:inputType="number" android:imeOptions="flagNoExtractUi" />
+            </LinearLayout>
+            <TextView android:textStyle="bold" android:textColor="#ff76abf2" android:paddingLeft="25.0dip" android:paddingBottom="10.0dip" android:layout_width="350.0dip" android:layout_height="wrap_content" android:text="Change the amount of blue coffees that the tamer has." />
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="24.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="left" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Starseeds" android:layout_weight="1.0" />
+                <EditText android:id="@id/tweaks.starseeds" android:layout_width="200.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:inputType="number" android:imeOptions="flagNoExtractUi" />
+            </LinearLayout>
+            <TextView android:textStyle="bold" android:textColor="#ff76abf2" android:paddingLeft="25.0dip" android:paddingBottom="10.0dip" android:layout_width="350.0dip" android:layout_height="wrap_content" android:text="Change the amount of starseeds that the tamer has." />
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="24.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="left" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Moga cash" android:layout_weight="1.0" />
+                <EditText android:id="@id/tweaks.mogacash" android:layout_width="200.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:inputType="number" android:imeOptions="flagNoExtractUi" />
+            </LinearLayout>
+            <TextView android:textStyle="bold" android:textColor="#ff76abf2" android:paddingLeft="25.0dip" android:paddingBottom="10.0dip" android:layout_width="350.0dip" android:layout_height="wrap_content" android:text="Change the amount of coins (moga cash) that the tamer has." />
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="24.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="left" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Rival starting energy" android:layout_weight="1.0" />
+                <ToggleButton android:id="@id/tweaks.customrivalstartingenergy" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:textOn="Custom" android:textOff="Default" />
+                <EditText android:id="@id/tweaks.rivalstartingenergy" android:layout_width="120.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:inputType="number" android:imeOptions="flagNoExtractUi" />
+            </LinearLayout>
+            <TextView android:textStyle="bold" android:textColor="#ff76abf2" android:paddingLeft="25.0dip" android:paddingBottom="10.0dip" android:layout_width="350.0dip" android:layout_height="wrap_content" android:text="Change the amount of health points that each computer moga will have at the beginning of each battle." />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/tweaks.save" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="Save" />
+            <Button android:id="@id/tweaks.cancel" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="Cancel" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="24.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="left" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Auto play" android:layout_weight="1.0" />
+            <Button android:id="@id/tweaks.autoplay" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="Pick island" />
+        </LinearLayout>
+        <TextView android:textStyle="bold" android:textColor="#ff76abf2" android:paddingLeft="25.0dip" android:paddingBottom="10.0dip" android:layout_width="350.0dip" android:layout_height="wrap_content" android:text="Fights all the battles required to complete a given island." />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="25.0dip" android:paddingTop="10.0dip" android:paddingRight="25.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="24.0dip" android:textStyle="bold" android:textColor="#ffffffff" android:gravity="left" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Snapshots" android:layout_weight="1.0" />
+            <Button android:id="@id/tweaks.savesnap" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="Save" />
+            <Button android:id="@id/tweaks.loadsnap" android:layout_width="100.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:text="Load" />
+        </LinearLayout>
+        <TextView android:textStyle="bold" android:textColor="#ff76abf2" android:paddingLeft="25.0dip" android:paddingBottom="10.0dip" android:layout_width="350.0dip" android:layout_height="wrap_content" android:text="Allows saving current game state to SD card and loading game states from it." />
+    </LinearLayout>
+</ScrollView>
